@@ -1,4 +1,4 @@
-![Map2_v2.png](https://github.com/csu-hci-projects/CathT_CardosoV/blob/main/HW2%20Planning/Map2_v2.png)
+![Map2_v2.png](./Map2_v2.png)
 
 ## ZONE 1 (Hay Fields):
    - A.	Player spawn point
