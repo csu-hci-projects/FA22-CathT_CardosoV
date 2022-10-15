@@ -1,3 +1,5 @@
+![Map2_v2.png](https://github.com/csu-hci-projects/CathT_CardosoV/blob/tcath-map/HW2%20Planning/Map2_v2.png)
+
 ## ZONE 1 (Hay Fields):
    - A.	Player spawn point
    - B.	Raspberries (food source)
