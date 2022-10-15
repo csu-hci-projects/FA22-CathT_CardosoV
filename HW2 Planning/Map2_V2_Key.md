@@ -7,7 +7,7 @@
    - D.	Straw/hay piles (source of straw)
    - E.	Stream (zone boundary, source of water, requires bucket)
    - F.	Fish (food source, requires fishing rod)
-   - G.	Bridge (requires star-based mechanic to “unlock”)
+   - G.	Bridge (requires straw-based mechanic to “unlock”)
 ## ZONE 2 (Apple Orchard/Cornfields):
    - H.	Apple trees (source of wood, requires axe)
    - I.	Apples (food source, requires ladder)
