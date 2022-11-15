@@ -25,6 +25,14 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
