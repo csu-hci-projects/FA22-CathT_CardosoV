@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"OpenXRExpansionEditor": "UnrealEditor-OpenXRExpansionEditor-Win64-DebugGame.dll",
+		"OpenXRExpansionPlugin": "UnrealEditor-OpenXRExpansionPlugin-Win64-DebugGame.dll"
+	}
+}

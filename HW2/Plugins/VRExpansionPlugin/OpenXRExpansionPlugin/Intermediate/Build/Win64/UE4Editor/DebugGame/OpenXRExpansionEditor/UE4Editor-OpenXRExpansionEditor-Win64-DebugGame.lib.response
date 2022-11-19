@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenXRExpansionEditor-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExampleEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.cpp.obj"
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.gen.cpp.obj"
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\OpenXRExpansionEditor\Default.rc2.res"
+/OUT:"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UE4Editor\DebugGame\OpenXRExpansionEditor\UE4Editor-OpenXRExpansionEditor-Win64-DebugGame.lib"

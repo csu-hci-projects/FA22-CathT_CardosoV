@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VRExpansionEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionEditor\Module.VRExpansionEditor.cpp.obj"
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionEditor\Default.rc2.res"
+/OUT:"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionEditor\UnrealEditor-VRExpansionEditor.lib"

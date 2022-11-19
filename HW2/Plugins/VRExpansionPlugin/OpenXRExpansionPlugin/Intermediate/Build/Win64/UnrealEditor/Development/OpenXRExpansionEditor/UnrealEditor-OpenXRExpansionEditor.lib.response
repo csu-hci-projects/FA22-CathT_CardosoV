@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenXRExpansionEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Intermediate\Build\Win64\VRExpPluginExampleEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.cpp.obj"
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\OpenXRExpansionEditor\Module.OpenXRExpansionEditor.gen.cpp.obj"
+"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\OpenXRExpansionEditor\Default.rc2.res"
+/OUT:"C:\Users\morde\Documents\Unreal Projects\PluginExpProject\Plugins\VRExpansionPlugin\OpenXRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\OpenXRExpansionEditor\UnrealEditor-OpenXRExpansionEditor.lib"

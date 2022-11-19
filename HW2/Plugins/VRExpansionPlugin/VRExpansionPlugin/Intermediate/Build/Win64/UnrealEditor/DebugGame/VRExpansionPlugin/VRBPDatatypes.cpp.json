@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\private\\vrbpdatatypes.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\intermediate\\build\\win64\\vrexppluginexampleeditor\\debuggame\\unrealed\\sharedpch.unrealed.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\debuggame\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbpdatatypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\shipping\\openvrexpansionplugin\\module.openvrexpansionplugin.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\intermediate\\build\\win64\\vrexppluginexample\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\shipping\\openvrexpansionplugin\\definitions.openvrexpansionplugin.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\openvrexpansionplugin\\openvrexpansionfunctionlibrary.gen.cpp",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\source\\openvrexpansionplugin\\public\\openvrexpansionfunctionlibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\thirdparty\\openvr\\openvrv1_5_17\\headers\\openvr.h",
+            "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\string",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\openvrexpansionplugin\\openvrexpansionfunctionlibrary.generated.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\openvrexpansionplugin\\openvrexpansionplugin.init.gen.cpp",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\openvrexpansionplugin\\steamvrkeyboardcomponent.gen.cpp",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\source\\openvrexpansionplugin\\public\\steamvrkeyboardcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\ixrtrackingsystem.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\headmounteddisplaytypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\imotioncontroller.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\headmounteddisplay\\headmounteddisplaytypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\iidentifiablexrdevice.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\headmounteddisplay\\iidentifiablexrdevice.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\ixrinput.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\xrgestureconfig.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\headmounteddisplay\\xrgestureconfig.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\iheadmounteddisplay.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\headmounteddisplay\\public\\lateupdatemanager.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\openvrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\openvrexpansionplugin\\steamvrkeyboardcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
