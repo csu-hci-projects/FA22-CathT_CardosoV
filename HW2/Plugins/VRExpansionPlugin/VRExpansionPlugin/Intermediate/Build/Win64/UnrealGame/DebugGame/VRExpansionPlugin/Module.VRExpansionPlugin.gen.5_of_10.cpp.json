@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\debuggame\\vrexpansionplugin\\module.vrexpansionplugin.gen.5_of_10.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\intermediate\\build\\win64\\vrexppluginexample\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\debuggame\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\vrexpansionplugin\\vrbpdatatypes.gen.cpp",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\vrexpansionplugin\\vrbpdatatypes.generated.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\vrexpansionplugin\\vrbuttoncomponent.gen.cpp",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\interactibles\\vrbuttoncomponent.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\interactibles\\vrinteractiblefunctionlibrary.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\vrexpansionplugin\\vrinteractiblefunctionlibrary.generated.h",
+            "c:\\users\\morde\\documents\\unreal projects\\pluginexpproject\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealgame\\inc\\vrexpansionplugin\\vrbuttoncomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

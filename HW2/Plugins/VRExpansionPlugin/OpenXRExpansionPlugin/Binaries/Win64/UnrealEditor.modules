@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"OpenXRExpansionEditor": "UnrealEditor-OpenXRExpansionEditor.dll",
+		"OpenXRExpansionPlugin": "UnrealEditor-OpenXRExpansionPlugin.dll"
+	}
+}
