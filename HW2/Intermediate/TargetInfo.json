@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HW2",
+			"Path": "D:\\Documents\\_Personal\\CSU\\CLASSES\\FALL2022\\CS310H\\HOMEWORK\\CathT_CardosoV\\HW2\\Source\\HW2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HW2Editor",
+			"Path": "D:\\Documents\\_Personal\\CSU\\CLASSES\\FALL2022\\CS310H\\HOMEWORK\\CathT_CardosoV\\HW2\\Source\\HW2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

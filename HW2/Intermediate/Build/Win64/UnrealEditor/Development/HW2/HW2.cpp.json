@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\documents\\_personal\\csu\\classes\\fall2022\\cs310h\\homework\\catht_cardosov\\hw2\\source\\hw2\\hw2.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\documents\\_personal\\csu\\classes\\fall2022\\cs310h\\homework\\catht_cardosov\\hw2\\intermediate\\build\\win64\\hw2editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\documents\\_personal\\csu\\classes\\fall2022\\cs310h\\homework\\catht_cardosov\\hw2\\intermediate\\build\\win64\\unrealeditor\\development\\hw2\\definitions.hw2.h",
+            "d:\\documents\\_personal\\csu\\classes\\fall2022\\cs310h\\homework\\catht_cardosov\\hw2\\source\\hw2\\hw2.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
