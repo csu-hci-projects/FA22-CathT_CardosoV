@@ -13,42 +13,42 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VREXPANSIONPLUGIN_VRBPDatatypes_generated_h
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_113_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_113_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPVRWaistTracking_Info_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPVRWaistTracking_Info>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_251_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_251_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPEuroLowPassFilter_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPEuroLowPassFilter>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_305_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_305_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPEuroLowPassFilterQuat_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPEuroLowPassFilterQuat>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_358_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_358_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPEuroLowPassFilterTrans_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPEuroLowPassFilterTrans>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_420_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_420_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPLowPassPeakFilter_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPLowPassPeakFilter>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_493_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_493_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FTransform_NetQuantize_Statics; \
 	VREXPANSIONPLUGIN_API static class UScriptStruct* StaticStruct(); \
 	typedef FTransform Super;
@@ -56,70 +56,70 @@ template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPLowPassPe
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FTransform_NetQuantize>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_754_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_754_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPVRComponentPosRep_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPVRComponentPosRep>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1075_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1075_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvGripPhysicsSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvGripPhysicsSettings>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1227_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1227_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvGripSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvGripSettings>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1263_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1263_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPSecondaryGripInfo_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPSecondaryGripInfo>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1381_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1381_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPActorGripInformation_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPActorGripInformation>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1642_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1642_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPGripPair_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPGripPair>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1692_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1692_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPInterfaceProperties_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPInterfaceProperties>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1774_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1774_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPActorPhysicsHandleInformation_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPActorPhysicsHandleInformation>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1829_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1829_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvancedPhysicsHandleAxisSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvancedPhysicsHandleAxisSettings>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1885_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h_1885_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FBPAdvancedPhysicsHandleSettings_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -127,7 +127,7 @@ template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvancedP
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FBPAdvancedPhysicsHandleSettings>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h
+#define CURRENT_FILE_ID FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_VRBPDatatypes_h
 
 
 #define FOREACH_ENUM_EVRCUSTOMMOVEMENTMODE(op) \

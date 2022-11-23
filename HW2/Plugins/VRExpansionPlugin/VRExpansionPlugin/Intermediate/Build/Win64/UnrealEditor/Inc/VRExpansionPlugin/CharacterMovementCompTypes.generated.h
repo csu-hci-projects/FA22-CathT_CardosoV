@@ -13,28 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VREXPANSIONPLUGIN_CharacterMovementCompTypes_generated_h
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h_72_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h_72_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVRMoveActionContainer_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FVRMoveActionContainer>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h_306_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h_306_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVRMoveActionArray_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FVRMoveActionArray>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h_380_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h_380_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVRConditionalMoveRep_Statics; \
 	static class UScriptStruct* StaticStruct();
 
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FVRConditionalMoveRep>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h_464_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h_464_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVRConditionalMoveRep2_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -42,7 +42,7 @@ template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FVRCondition
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FVRConditionalMoveRep2>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h
+#define CURRENT_FILE_ID FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_CharacterMovementCompTypes_h
 
 
 #define FOREACH_ENUM_EVRMOVEACTION(op) \

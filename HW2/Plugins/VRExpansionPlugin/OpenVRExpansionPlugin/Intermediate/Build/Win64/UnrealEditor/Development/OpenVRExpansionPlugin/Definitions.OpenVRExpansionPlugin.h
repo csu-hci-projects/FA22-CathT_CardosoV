@@ -55,8 +55,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME VRExpPluginExample
-#define UE_TARGET_NAME VRExpPluginExampleEditor
+#define UE_PROJECT_NAME HW2
+#define UE_TARGET_NAME HW2Editor
 #define WITH_OPEN_VR_EXPANSION 1
 #define UE_MODULE_NAME "OpenVRExpansionPlugin"
 #define UE_PLUGIN_NAME "OpenVRExpansionPlugin"

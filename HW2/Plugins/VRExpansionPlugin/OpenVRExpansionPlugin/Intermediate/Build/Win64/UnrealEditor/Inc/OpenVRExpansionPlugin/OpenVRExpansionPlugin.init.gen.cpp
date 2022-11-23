@@ -23,7 +23,7 @@ void EmptyLinkFunctionForGeneratedCodeOpenVRExpansionPlugin_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xD40A89F3,
+				0x4092312D,
 				0x2A2DB2AE,
 				METADATA_PARAMS(nullptr, 0)
 			};
@@ -31,5 +31,5 @@ void EmptyLinkFunctionForGeneratedCodeOpenVRExpansionPlugin_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_OpenVRExpansionPlugin.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_OpenVRExpansionPlugin(Z_Construct_UPackage__Script_OpenVRExpansionPlugin, TEXT("/Script/OpenVRExpansionPlugin"), Z_Registration_Info_UPackage__Script_OpenVRExpansionPlugin, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xD40A89F3, 0x2A2DB2AE));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_OpenVRExpansionPlugin(Z_Construct_UPackage__Script_OpenVRExpansionPlugin, TEXT("/Script/OpenVRExpansionPlugin"), Z_Registration_Info_UPackage__Script_OpenVRExpansionPlugin, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x4092312D, 0x2A2DB2AE));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VREXPANSIONPLUGIN_GrippablePhysicsReplication_generated_h
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_GrippablePhysicsReplication_h_74_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_GrippablePhysicsReplication_h_74_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FRepMovementVR_Statics; \
 	static class UScriptStruct* StaticStruct(); \
 	typedef FRepMovement Super;
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FRepMovementVR>();
 
-#define FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_GrippablePhysicsReplication_h_97_GENERATED_BODY \
+#define FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_GrippablePhysicsReplication_h_97_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FVRClientAuthReplicationData_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -29,7 +29,7 @@ template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FRepMovement
 template<> VREXPANSIONPLUGIN_API UScriptStruct* StaticStruct<struct FVRClientAuthReplicationData>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_PluginExpProject_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_GrippablePhysicsReplication_h
+#define CURRENT_FILE_ID FID_HW2_Plugins_VRExpansionPlugin_VRExpansionPlugin_Source_VRExpansionPlugin_Public_Grippables_GrippablePhysicsReplication_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

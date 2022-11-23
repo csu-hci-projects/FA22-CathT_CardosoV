@@ -1,0 +1,19 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\4X4S\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Documents\_Personal\CSU\CLASSES\FALL2022\CS310H\HOMEWORK\CathT_CardosoV).
+  Invalidating makefile for HW2Editor (working set of source files changed)
+  Building HW2Editor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from HW2 unity file: ClaculateTimeOfDay.cpp, HW2.cpp
+  Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+    Executing up to 8 processes, one per physical core
+  Building 5 actions with 5 processes...
+  [1/5] Compile HW2.cpp
+  [2/5] Compile ClaculateTimeOfDay.cpp
+  [3/5] Link UnrealEditor-HW2.lib
+     Creating library D:\Documents\_Personal\CSU\CLASSES\FALL2022\CS310H\HOMEWORK\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\UnrealEditor-HW2.lib and object D:\Documents\_Personal\CSU\CLASSES\FALL2022\CS310H\HOMEWORK\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\UnrealEditor-HW2.exp
+  [4/5] Link UnrealEditor-HW2.dll
+     Creating library D:\Documents\_Personal\CSU\CLASSES\FALL2022\CS310H\HOMEWORK\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\UnrealEditor-HW2.suppressed.lib and object D:\Documents\_Personal\CSU\CLASSES\FALL2022\CS310H\HOMEWORK\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\UnrealEditor-HW2.suppressed.exp
+  [5/5] WriteMetadata HW2Editor.target
+  Total time in Parallel executor: 3.07 seconds
+  Total execution time: 7.48 seconds
