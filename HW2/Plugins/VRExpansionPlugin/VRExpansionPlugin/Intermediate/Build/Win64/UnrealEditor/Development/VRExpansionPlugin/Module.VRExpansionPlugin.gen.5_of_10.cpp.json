@@ -1,22 +1,22 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\development\\vrexpansionplugin\\module.vrexpansionplugin.gen.5_of_10.cpp",
+        "Source": "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\development\\vrexpansionplugin\\module.vrexpansionplugin.gen.5_of_10.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\intermediate\\build\\win64\\hw2editor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "PCH": "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\intermediate\\build\\win64\\hw2editor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbpdatatypes.gen.cpp",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbpdatatypes.generated.h",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbuttoncomponent.gen.cpp",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\interactibles\\vrbuttoncomponent.h",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\interactibles\\vrinteractiblefunctionlibrary.h",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\development\\vrexpansionplugin\\definitions.vrexpansionplugin.h",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbpdatatypes.gen.cpp",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\vrbpdatatypes.h",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbpdatatypes.generated.h",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbuttoncomponent.gen.cpp",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\interactibles\\vrbuttoncomponent.h",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\source\\vrexpansionplugin\\public\\interactibles\\vrinteractiblefunctionlibrary.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\gameplaytagcontainer.generated.h",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrinteractiblefunctionlibrary.generated.h",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbuttoncomponent.generated.h"
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrinteractiblefunctionlibrary.generated.h",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\plugins\\vrexpansionplugin\\vrexpansionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\vrexpansionplugin\\vrbuttoncomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

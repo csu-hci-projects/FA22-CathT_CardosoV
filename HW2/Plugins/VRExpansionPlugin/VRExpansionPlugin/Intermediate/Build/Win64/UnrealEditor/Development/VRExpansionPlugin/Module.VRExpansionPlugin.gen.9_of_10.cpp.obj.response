@@ -1,6 +1,6 @@
-"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_10.cpp"
+C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_10.cpp
 /I .
-/I "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private"
+/I C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEd
 /I Editor
 /I Programs\UnrealLightmass\Public
@@ -252,9 +252,9 @@
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule
 /I Runtime\AIModule\Public
 /I Runtime\AIModule\Classes
-/I "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Inc\VRExpansionPlugin"
-/I "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source"
-/I "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public"
+/I C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Inc\VRExpansionPlugin
+/I C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source
+/I C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Source\VRExpansionPlugin\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\MRMesh
@@ -288,12 +288,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/FI"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
-/Yu"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-/Fo"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_10.cpp.obj"
-/sourceDependencies "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_10.cpp.json"
+/FI"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/FI"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionPlugin\Definitions.VRExpansionPlugin.h"
+/Yu"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+/Fo"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_10.cpp.obj"
+/sourceDependencies C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionPlugin\Module.VRExpansionPlugin.gen.9_of_10.cpp.json
 /Zc:inline
 /nologo
 /Oi

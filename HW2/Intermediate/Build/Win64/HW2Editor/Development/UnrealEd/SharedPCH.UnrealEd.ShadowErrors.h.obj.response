@@ -1,4 +1,4 @@
-"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.cpp"
+C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEd
 /I Editor
@@ -275,10 +275,10 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/Yc"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-/Fo"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-/sourceDependencies "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.json"
+/Yc"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+/Fo"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+/sourceDependencies C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.json
 /Zc:inline
 /nologo
 /Oi

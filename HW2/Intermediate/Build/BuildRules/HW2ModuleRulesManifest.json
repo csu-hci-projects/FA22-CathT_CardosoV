@@ -1,13 +1,13 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Sophie\\Desktop\\School\\CS 310H\\hw2\\CathT_CardosoV\\HW2\\Source\\HW2\\HW2.Build.cs",
-		"C:\\Users\\Sophie\\Desktop\\School\\CS 310H\\hw2\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\OpenVRExpansionPlugin\\Source\\OpenVRExpansionPlugin\\OpenVRExpansionPlugin.Build.cs",
-		"C:\\Users\\Sophie\\Desktop\\School\\CS 310H\\hw2\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionPlugin\\OpenXRExpansionPlugin.Build.cs",
-		"C:\\Users\\Sophie\\Desktop\\School\\CS 310H\\hw2\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionEditor\\OpenXRExpansionEditor.Build.cs",
-		"C:\\Users\\Sophie\\Desktop\\School\\CS 310H\\hw2\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
-		"C:\\Users\\Sophie\\Desktop\\School\\CS 310H\\hw2\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs",
-		"C:\\Users\\Sophie\\Desktop\\School\\CS 310H\\hw2\\CathT_CardosoV\\HW2\\Source\\HW2.Target.cs",
-		"C:\\Users\\Sophie\\Desktop\\School\\CS 310H\\hw2\\CathT_CardosoV\\HW2\\Source\\HW2Editor.Target.cs"
+		"C:\\Users\\Sophie\\Desktop\\School\\CathT_CardosoV\\HW2\\Source\\HW2\\HW2.Build.cs",
+		"C:\\Users\\Sophie\\Desktop\\School\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\OpenVRExpansionPlugin\\Source\\OpenVRExpansionPlugin\\OpenVRExpansionPlugin.Build.cs",
+		"C:\\Users\\Sophie\\Desktop\\School\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionEditor\\OpenXRExpansionEditor.Build.cs",
+		"C:\\Users\\Sophie\\Desktop\\School\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\OpenXRExpansionPlugin\\Source\\OpenXRExpansionPlugin\\OpenXRExpansionPlugin.Build.cs",
+		"C:\\Users\\Sophie\\Desktop\\School\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionEditor\\VRExpansionEditor.Build.cs",
+		"C:\\Users\\Sophie\\Desktop\\School\\CathT_CardosoV\\HW2\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs",
+		"C:\\Users\\Sophie\\Desktop\\School\\CathT_CardosoV\\HW2\\Source\\HW2.Target.cs",
+		"C:\\Users\\Sophie\\Desktop\\School\\CathT_CardosoV\\HW2\\Source\\HW2Editor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
