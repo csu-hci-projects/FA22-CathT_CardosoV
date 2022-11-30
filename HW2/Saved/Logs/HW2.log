@@ -2126,3 +2126,120 @@ Are you sure?
 [2022.11.30-04.20.40:896][374]LogContentValidation: Display: Validating World /Game/HW2/Maps/HW2Map.HW2Map
 [2022.11.30-04.20.44:072][713]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
 [2022.11.30-04.20.46:107][907]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2022.11.30-04.24.03:650][829]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.30-04.24.03:664][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-04.24.03:664][829]PIE: New page: PIE session: HW2Map (Nov 29, 2022, 2:24:03 PM)
+[2022.11.30-04.24.03:664][829]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.11.30-04.24.03:714][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050113s)
+[2022.11.30-04.24.03:714][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/HW2Map.HW2Map to /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map (0.050205s)
+[2022.11.30-04.24.03:714][829]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-04.24.03:714][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.24.03:715][829]LogAIModule: Creating AISystem for world HW2Map
+[2022.11.30-04.24.03:715][829]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2022.11.30-04.24.03:789][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.11.30-04.24.03:791][829]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.30-04.24.03:791][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-04.24.03:791][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-04.24.03:791][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-04.24.03:791][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-04.24.03:791][829]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.30-04.24.03:791][829]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-04.24.03:791][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.30-04.24.03:791][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-04.24.03:792][829]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.30-04.24.03:792][829]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.30-04.24.03:792][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-04.24.03:794][829]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-04.24.03:831][829]LogAudioMixer: Display: Using Audio Hardware Device Razor (Razer Kraken Ultimate)
+[2022.11.30-04.24.03:831][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-04.24.03:831][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-04.24.03:831][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-04.24.03:832][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.30-04.24.03:832][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.30-04.24.03:834][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.30-04.24.03:834][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.30-04.24.03:834][829]LogInit: FAudioDevice initialized.
+[2022.11.30-04.24.03:834][829]LogAudio: Display: Audio Device (ID: 4) registered with world 'HW2Map'.
+[2022.11.30-04.24.03:852][829]LogLoad: Game class is 'GM_HW2_C'
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:864][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:865][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:867][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:868][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:869][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:870][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:870][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:870][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:870][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:870][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:870][829]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.24.03:870][829]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map up for play (max tick rate 0) at 2022.11.29-21.24.03
+[2022.11.30-04.24.03:871][829]LogWorld: Bringing up level for play took: 0.018216
+[2022.11.30-04.24.03:873][829]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2022.11.30-04.24.03:874][829]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-04.24.03:874][829]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-04.24.03:874][829]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-04.24.03:874][829]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.30-04.24.03:875][829]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.30-04.24.03:878][829]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-04.24.03:878][829]PIE: Server logged in
+[2022.11.30-04.24.03:879][829]PIE: Play in editor total start time 0.215 seconds.
+[2022.11.30-04.24.03:935][829]LogResonanceAudio: Display: Resonance Audio Listener is initialized
