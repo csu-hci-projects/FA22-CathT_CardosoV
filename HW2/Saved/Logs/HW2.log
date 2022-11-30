@@ -1189,3 +1189,940 @@ Are you sure?
 [2022.11.30-03.44.25:703][774]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
 [2022.11.30-03.44.40:928][956]LogSlate: Window 'Project Settings' being destroyed
 [2022.11.30-03.44.40:936][956]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.30-03.50.03:391][960]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HW2/Blueprints/C_HW2.C_HW2
+[2022.11.30-03.50.03:391][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-03.53.01:499][769]BlueprintLog: New page: Compile C_HW2
+[2022.11.30-03.53.01:675][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.11.30-03.53.01:764][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Blueprints/C_HW2" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Blueprints/C_HW2.uasset" SILENT=true
+[2022.11.30-03.53.01:821][769]LogSavePackage: Moving output files for package: /Game/HW2/Blueprints/C_HW2
+[2022.11.30-03.53.01:823][769]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/C_HW2D9555F1E4BBD3730C0E641ADB75076A6.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Blueprints/C_HW2.uasset'
+[2022.11.30-03.53.01:842][769]AssetCheck: New page: Asset Save: C_HW2
+[2022.11.30-03.53.01:842][769]LogContentValidation: Display: Validating Blueprint /Game/HW2/Blueprints/C_HW2.C_HW2
+[2022.11.30-03.53.02:364][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Blueprints/C_HW2" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Blueprints/C_HW2.uasset" SILENT=true
+[2022.11.30-03.53.02:421][815]LogSavePackage: Moving output files for package: /Game/HW2/Blueprints/C_HW2
+[2022.11.30-03.53.02:422][815]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/C_HW215C48B66450F182F0E618FA4112C3B01.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Blueprints/C_HW2.uasset'
+[2022.11.30-03.53.02:441][815]AssetCheck: New page: Asset Save: C_HW2
+[2022.11.30-03.53.02:441][815]LogContentValidation: Display: Validating Blueprint /Game/HW2/Blueprints/C_HW2.C_HW2
+[2022.11.30-03.54.29:262][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.30-03.54.29:407][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:407][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:407][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:407][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:407][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:407][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:409][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:409][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:412][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:430][665]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HW2/Maps/Map_Lose.Map_Lose
+[2022.11.30-03.54.29:430][665]Cmd: MAP LOAD FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.30-03.54.29:430][665]LightingResults: New page: Lighting Build
+[2022.11.30-03.54.29:431][665]LoadErrors: New page: Loading map: Map_Lose.umap
+[2022.11.30-03.54.29:463][665]LogWorld: UWorld::CleanupWorld for Map_Win, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.54.29:464][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.54.29:464][665]MapCheck: New page: Map Check
+[2022.11.30-03.54.29:464][665]LightingResults: New page: Lighting Build
+[2022.11.30-03.54.29:526][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-03.54.29:544][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.11.30-03.54.29:553][665]LogWorld: UWorld::CleanupWorld for Map_Lose, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.54.29:554][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.54.29:625][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.11.30-03.54.29:684][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.30-03.54.29:767][665]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Lose'.
+[2022.11.30-03.54.29:767][665]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-03.54.29:767][665]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-03.54.29:767][665]LogAIModule: Creating AISystem for world Map_Lose
+[2022.11.30-03.54.29:789][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:789][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:789][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:789][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:789][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:789][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:789][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:790][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:792][665]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose.Map_Lose:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.54.29:812][665]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.30-03.54.29:875][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.30-03.54.29:899][665]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.30-03.54.29:899][665]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2022.11.30-03.54.29:899][665]LogFileHelpers: Loading map 'Map_Lose' took 0.470
+[2022.11.30-03.54.48:818][885]Cmd: DELETE
+[2022.11.30-03.54.48:818][885]Cmd: ACTOR DELETE
+[2022.11.30-03.54.48:830][885]LogEditorActor: Deleted Actor: BP_RiverSpline_C
+[2022.11.30-03.54.48:891][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.11.30-03.54.48:895][885]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2022.11.30-03.54.51:804][228]Cmd: DELETE
+[2022.11.30-03.54.51:804][228]Cmd: ACTOR DELETE
+[2022.11.30-03.54.51:812][228]LogEditorActor: Deleted Actor: BP_RiverSpline_C
+[2022.11.30-03.54.51:871][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.30-03.54.51:873][228]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2022.11.30-03.54.58:748][ 45]Cmd: DELETE
+[2022.11.30-03.54.58:748][ 45]Cmd: ACTOR DELETE
+[2022.11.30-03.55.28:307][370]Cmd: TRANSACTION UNDO
+[2022.11.30-03.55.28:308][370]LogEditorTransaction: Undo Move Elements
+[2022.11.30-03.55.30:816][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Lose" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-03.55.30:877][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.30-03.55.30:990][598]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Lose
+[2022.11.30-03.55.30:990][598]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_Lose35C78F3D4CD7847595978F972CA322DB.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose.umap'
+[2022.11.30-03.55.31:036][598]AssetCheck: New page: Asset Save: Map_Lose
+[2022.11.30-03.55.31:036][598]LogContentValidation: Display: Validating World /Game/HW2/Maps/Map_Lose.Map_Lose
+[2022.11.30-03.56.04:353][505]Cmd: DELETE
+[2022.11.30-03.56.04:353][505]Cmd: ACTOR DELETE
+[2022.11.30-03.56.04:361][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:363][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:364][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:364][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:365][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:365][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:366][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:367][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:367][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:368][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:368][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:369][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:369][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:369][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:370][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:370][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:370][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:371][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:371][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:372][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:372][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-03.56.04:429][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.11.30-03.56.04:434][505]LogEditorActor: Deleted 21 Actors (0.081 secs)
+[2022.11.30-03.56.06:697][774]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.06:697][774]LogEditorTransaction: Undo Delete Elements
+[2022.11.30-03.56.13:670][525]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.13:670][525]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.30-03.56.14:567][577]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.14:567][577]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.30-03.56.15:097][635]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.15:097][635]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.30-03.56.15:512][681]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.15:512][681]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.30-03.56.15:919][727]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.15:919][727]LogEditorTransaction: Undo Set Item Visibility
+[2022.11.30-03.56.16:339][776]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.16:339][776]LogEditorTransaction: Undo Set Item Visibility
+[2022.11.30-03.56.16:716][820]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.16:716][820]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.30-03.56.17:438][903]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.17:438][903]LogEditorTransaction: Undo Set Item Visibility
+[2022.11.30-03.56.17:813][947]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.17:813][947]LogEditorTransaction: Undo Set Item Visibility
+[2022.11.30-03.56.18:173][989]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.18:173][989]LogEditorTransaction: Undo Set Item Visibility
+[2022.11.30-03.56.18:517][ 29]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.18:517][ 29]LogEditorTransaction: Undo Set Item Visibility
+[2022.11.30-03.56.18:910][ 75]Cmd: TRANSACTION UNDO
+[2022.11.30-03.56.18:910][ 75]LogEditorTransaction: Undo Clicking on Actors
+[2022.11.30-03.56.58:971][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.56.58:971][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.56.58:971][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.56.58:971][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.56.58:971][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.56.58:971][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.56.58:971][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.56.58:971][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.56.58:974][771]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.01:854][ 79]LogContentBrowser: Deferred new asset file creation: Map_Win1
+[2022.11.30-03.57.01:873][ 79]LogContentBrowser: Creating deferred item: Map_Win1
+[2022.11.30-03.57.01:881][ 80]LogContentBrowser: Renaming the item being created (Deferred Item: Map_Win1).
+[2022.11.30-03.57.03:592][269]LogContentBrowser: Attempting asset rename: Map_Win1 -> Map_Win1
+[2022.11.30-03.57.03:766][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.30-03.57.03:831][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-03.57.03:831][269]LogAIModule: Creating AISystem for world Map_Win1
+[2022.11.30-03.57.03:850][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:850][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:850][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:850][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:850][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:850][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:850][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:850][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:854][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.03:877][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Win1" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Win1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-03.57.03:934][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.30-03.57.04:044][269]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Win1
+[2022.11.30-03.57.04:044][269]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_Win1D99C92BC469ED70F9F885EB9114175E3.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Win1.umap'
+[2022.11.30-03.57.04:051][269]LogWorld: UWorld::CleanupWorld for Map_Win1, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.04:051][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.04:058][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:059][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:059][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:059][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:059][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:059][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:059][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:059][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:062][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:079][269]LogFileHelpers: Saving map 'Map_Win1' took 0.248
+[2022.11.30-03.57.04:183][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-03.57.04:198][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:198][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:198][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:198][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:198][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:199][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:199][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:199][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:202][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:225][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Win1" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Win1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-03.57.04:284][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.30-03.57.04:396][269]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Win1
+[2022.11.30-03.57.04:396][269]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_Win1EBFEDE094309C513E356B094625ACA43.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Win1.umap'
+[2022.11.30-03.57.04:411][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:411][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:411][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:411][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:411][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:411][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:411][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:411][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:414][269]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.04:432][269]LogFileHelpers: Saving map 'Map_Win1' took 0.251
+[2022.11.30-03.57.04:463][269]LogContentBrowser: End creating deferred item Map_Win1
+[2022.11.30-03.57.04:476][269]AssetCheck: New page: Asset Save: Map_Win1
+[2022.11.30-03.57.04:476][269]LogContentValidation: Display: Validating World /Game/HW2/Maps/Map_Win1.Map_Win1
+[2022.11.30-03.57.09:097][751]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.57.09:097][751]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.57.09:634][809]LogObjectTools: Deleting 1 worlds: /Game/HW2/Maps/Map_Lose.Map_Lose
+[2022.11.30-03.57.09:634][809]LogObjectTools: Currently 14 active worlds: /Game/HW2/Maps/Map_Lose.Map_Lose, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_15, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_29, /Engine/Transient.World_30
+[2022.11.30-03.57.11:414][809]LogSlate: Window 'Unable to delete level' being destroyed
+[2022.11.30-03.57.11:434][809]Message dialog closed, result: Cancel, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.11.30-03.57.12:189][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.30-03.57.13:179][864]LogSlate: Window 'Save Content' being destroyed
+[2022.11.30-03.57.13:249][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Lose" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-03.57.13:306][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.30-03.57.13:411][864]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Lose
+[2022.11.30-03.57.13:412][864]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_Lose969528C4410C6495494A83BB1437C05A.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose.umap'
+[2022.11.30-03.57.13:436][864]LogFileHelpers: Saving map 'Map_Lose' took 0.188
+[2022.11.30-03.57.13:437][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-03.57.13:453][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:453][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:453][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:453][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:454][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:454][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:454][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:454][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:457][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:483][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Win1" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Win1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-03.57.13:540][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.30-03.57.13:651][864]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Win1
+[2022.11.30-03.57.13:652][864]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_Win1FB3FF63F4090DB3140C48485A96A6782.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Win1.umap'
+[2022.11.30-03.57.13:668][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:668][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:668][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:668][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:668][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:669][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:669][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:669][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:672][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.13:692][864]LogFileHelpers: Saving map 'Map_Win1' took 0.256
+[2022.11.30-03.57.13:700][864]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HW2/Maps/Map_Win.Map_Win
+[2022.11.30-03.57.13:700][864]Cmd: MAP LOAD FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Win.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.30-03.57.13:700][864]LightingResults: New page: Lighting Build
+[2022.11.30-03.57.13:700][864]LoadErrors: New page: Loading map: Map_Win.umap
+[2022.11.30-03.57.13:733][864]LogWorld: UWorld::CleanupWorld for Map_Lose, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.13:733][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.13:733][864]MapCheck: New page: Map Check
+[2022.11.30-03.57.13:733][864]LightingResults: New page: Lighting Build
+[2022.11.30-03.57.13:790][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-03.57.13:805][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.11.30-03.57.13:811][864]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.11.30-03.57.13:811][864]LogWorld: UWorld::CleanupWorld for Map_Win1, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.13:811][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.13:815][864]LogWorld: UWorld::CleanupWorld for Map_Win, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.13:815][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.13:884][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.30-03.57.13:942][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.11.30-03.57.14:022][864]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Win'.
+[2022.11.30-03.57.14:023][864]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-03.57.14:023][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-03.57.14:023][864]LogAIModule: Creating AISystem for world Map_Win
+[2022.11.30-03.57.14:042][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:043][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:043][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:043][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:043][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:043][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:043][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:043][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:046][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win.Map_Win:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:067][864]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.30-03.57.14:127][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.30-03.57.14:149][864]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.30-03.57.14:149][864]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2022.11.30-03.57.14:149][864]LogFileHelpers: Loading map 'Map_Win' took 0.449
+[2022.11.30-03.57.14:179][864]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.30-03.57.14:179][864]LogContentValidation: Display: Validating World /Game/HW2/Maps/Map_Lose.Map_Lose
+[2022.11.30-03.57.14:265][864]LogContentValidation: Display: Validating World /Game/HW2/Maps/Map_Win1.Map_Win1
+[2022.11.30-03.57.14:337][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:337][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:337][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:337][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:337][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:337][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:338][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:338][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.14:340][864]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Win1.Map_Win1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.57.16:530][ 60]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.57.16:530][ 60]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.57.17:211][135]LogObjectTools: Deleting 1 worlds: /Game/HW2/Maps/Map_Lose.Map_Lose
+[2022.11.30-03.57.17:211][135]LogObjectTools: Currently 14 active worlds: /Game/HW2/Maps/Map_Win.Map_Win, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_15, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_29, /Engine/Transient.World_30
+[2022.11.30-03.57.17:270][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.11.30-03.57.36:119][135]LogSlate: Window 'Replace References?' being destroyed
+[2022.11.30-03.57.36:124][135]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Map_Win1; and then delete them.
+
+Are you sure?
+[2022.11.30-03.57.36:124][135]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.30-03.57.36:173][135]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.36:173][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.36:250][135]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.36:251][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.36:269][135]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.36:269][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.36:340][135]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.36:340][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.36:358][135]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.36:359][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.36:437][135]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.36:438][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.36:455][135]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.36:455][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.36:922][135]LogWorld: UWorld::CleanupWorld for Map_Lose, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-03.57.36:923][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-03.57.37:584][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.11.30-03.57.41:596][135]LogSlate: Window 'Save Content' being destroyed
+[2022.11.30-03.57.48:447][885]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.57.48:447][885]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.57.48:591][893]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.57.48:591][893]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.57.57:527][915]LogContentBrowser: Attempting asset rename: Map_Win1 -> Map_Win1
+[2022.11.30-03.58.06:697][965]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.58.06:697][965]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.30-03.58.19:418][452]LogContentBrowser: Attempting asset rename: Map_Win1 -> Map_Lose1
+[2022.11.30-03.58.19:453][452]LogMetaData: Removing '/Game/HW2/Maps/Map_Lose1.Map_Lose1_C' ref from Metadata '/Game/HW2/Maps/Map_Win1.PackageMetaData'
+[2022.11.30-03.58.19:453][452]LogMetaData: Removing '/Game/HW2/Maps/Map_Lose1.SKEL_Map_Lose1_C:ReceiveBeginPlay' ref from Metadata '/Game/HW2/Maps/Map_Win1.PackageMetaData'
+[2022.11.30-03.58.19:453][452]LogMetaData: Removing '/Game/HW2/Maps/Map_Lose1.SKEL_Map_Lose1_C:ReceiveTick' ref from Metadata '/Game/HW2/Maps/Map_Win1.PackageMetaData'
+[2022.11.30-03.58.19:453][452]LogMetaData: Removing '/Game/HW2/Maps/Map_Lose1.SKEL_Map_Lose1_C' ref from Metadata '/Game/HW2/Maps/Map_Win1.PackageMetaData'
+[2022.11.30-03.58.19:453][452]LogMetaData: Removing '/Game/HW2/Maps/Map_Lose1.Map_Lose1_C:ReceiveTick' ref from Metadata '/Game/HW2/Maps/Map_Win1.PackageMetaData'
+[2022.11.30-03.58.19:515][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-03.58.19:531][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:531][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:531][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:531][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:531][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:531][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:532][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:532][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:535][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:552][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Lose1" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-03.58.19:617][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.11.30-03.58.19:741][452]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Lose1
+[2022.11.30-03.58.19:741][452]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_Lose1E0DBC86B4C3F86067374BCA288F2D134.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose1.umap'
+[2022.11.30-03.58.19:756][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:756][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:756][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:756][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:756][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:756][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:756][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:756][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:759][452]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-03.58.19:770][452]LogFileHelpers: Saving map 'Map_Lose1' took 0.256
+[2022.11.30-03.58.19:952][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.30-03.58.19:976][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.30-03.58.19:999][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.11.30-03.58.20:007][452]AssetCheck: New page: Asset Save: Map_Lose1
+[2022.11.30-03.58.20:007][452]LogContentValidation: Display: Validating World /Game/HW2/Maps/Map_Lose1.Map_Lose1
+[2022.11.30-03.59.01:549][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HW2/Blueprints/C_HW2.C_HW2
+[2022.11.30-03.59.01:549][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-03.59.21:903][539]BlueprintLog: New page: Compile C_HW2
+[2022.11.30-03.59.22:090][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.11.30-03.59.22:179][539]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Blueprints/C_HW2" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Blueprints/C_HW2.uasset" SILENT=true
+[2022.11.30-03.59.22:235][539]LogSavePackage: Moving output files for package: /Game/HW2/Blueprints/C_HW2
+[2022.11.30-03.59.22:236][539]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/C_HW29D337960465EA0D37EF293841C51D1D1.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Blueprints/C_HW2.uasset'
+[2022.11.30-03.59.22:259][539]AssetCheck: New page: Asset Save: C_HW2
+[2022.11.30-03.59.22:259][539]LogContentValidation: Display: Validating Blueprint /Game/HW2/Blueprints/C_HW2.C_HW2
+[2022.11.30-03.59.28:890][269]LogLinker: Warning: Failed to load '/Game/VRTemplate/Blueprints/VRGameMode': Can't find file.
+[2022.11.30-03.59.28:890][269]LogLinker: Warning: Failed to load '/Game/VRTemplate/Blueprints/VRGameMode': Can't find file.
+[2022.11.30-03.59.28:890][269]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/VRTemplate/Blueprints/VRGameMode.VRGameMode_C'
+[2022.11.30-04.00.07:535][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.11.30-04.00.09:060][790]LogSlate: Window 'Save Content' being destroyed
+[2022.11.30-04.00.09:114][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Lose" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose.umap" SILENT=true
+[2022.11.30-04.00.09:115][790]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Lose
+[2022.11.30-04.00.09:116][790]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_LoseC919B4AC49680A13AC525CA333197BF0.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose.umap'
+[2022.11.30-04.00.09:125][790]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HW2/Maps/Map_Lose1.Map_Lose1
+[2022.11.30-04.00.09:125][790]Cmd: MAP LOAD FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.30-04.00.09:125][790]LightingResults: New page: Lighting Build
+[2022.11.30-04.00.09:125][790]LoadErrors: New page: Loading map: Map_Lose1.umap
+[2022.11.30-04.00.09:133][790]LogWorld: UWorld::CleanupWorld for Map_Win, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.00.09:133][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.00.09:134][790]MapCheck: New page: Map Check
+[2022.11.30-04.00.09:134][790]LightingResults: New page: Lighting Build
+[2022.11.30-04.00.09:165][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-04.00.09:180][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.30-04.00.09:184][790]LogWorld: UWorld::CleanupWorld for Map_Lose1, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.00.09:184][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.00.09:222][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.30-04.00.09:256][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.30-04.00.09:349][790]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Lose1'.
+[2022.11.30-04.00.09:349][790]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-04.00.09:350][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.00.09:350][790]LogAIModule: Creating AISystem for world Map_Lose1
+[2022.11.30-04.00.09:370][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:371][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:371][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:371][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:371][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:371][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:371][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:371][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:374][790]PIE: Warning: AttachTo: '/Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.00.09:392][790]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.30-04.00.09:429][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.11.30-04.00.09:454][790]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.30-04.00.09:454][790]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2022.11.30-04.00.09:454][790]LogFileHelpers: Loading map 'Map_Lose1' took 0.329
+[2022.11.30-04.00.09:480][790]AssetCheck: New page: Asset Save: Map_Lose
+[2022.11.30-04.00.09:481][790]LogContentValidation: Display: Validating World /Game/HW2/Maps/Map_Lose.Map_Lose
+[2022.11.30-04.00.11:712][ 37]Cmd: DELETE
+[2022.11.30-04.00.11:712][ 37]Cmd: ACTOR DELETE
+[2022.11.30-04.00.11:722][ 37]LogEditorActor: Deleted Actor: UI_Win_C
+[2022.11.30-04.00.11:758][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.30-04.00.11:761][ 37]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2022.11.30-04.00.15:902][489]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HW2/UI/UI_Lose.UI_Lose_C
+[2022.11.30-04.00.15:902][489]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HW2/UI/UI_Lose.UI_Lose_C
+[2022.11.30-04.00.15:905][489]LogActorFactory: Actor Factory spawned Blueprint /Game/HW2/UI/UI_Lose.UI_Lose as actor: UI_Lose_C /Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.UI_Lose_C_0
+[2022.11.30-04.00.15:905][489]LogActorFactory: Actor Factory spawned Blueprint /Game/HW2/UI/UI_Lose.UI_Lose as actor: UI_Lose_C /Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.UI_Lose_C_0
+[2022.11.30-04.00.16:655][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HW2/UI/UI_Lose.UI_Lose_C
+[2022.11.30-04.00.16:655][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/HW2/UI/UI_Lose.UI_Lose_C
+[2022.11.30-04.00.16:657][576]LogActorFactory: Actor Factory spawned Blueprint /Game/HW2/UI/UI_Lose.UI_Lose as actor: UI_Lose_C /Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.UI_Lose_C_1
+[2022.11.30-04.00.16:659][576]LogActorFactory: Actor Factory spawned Blueprint /Game/HW2/UI/UI_Lose.UI_Lose as actor: UI_Lose_C /Game/HW2/Maps/Map_Lose1.Map_Lose1:PersistentLevel.UI_Lose_C_1
+[2022.11.30-04.00.41:300][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Lose1" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-04.00.41:338][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.30-04.00.41:458][454]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Lose1
+[2022.11.30-04.00.41:458][454]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_Lose19A33179F47833FB761A0DB8D87A95F86.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose1.umap'
+[2022.11.30-04.00.41:500][454]AssetCheck: New page: Asset Save: Map_Lose1
+[2022.11.30-04.00.41:500][454]LogContentValidation: Display: Validating World /Game/HW2/Maps/Map_Lose1.Map_Lose1
+[2022.11.30-04.00.59:688][494]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-KSAM6KJ
+[2022.11.30-04.00.59:688][494]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/Sophie/Desktop/School/CathT_CardosoV/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Sophie/Desktop/School/CathT_CardosoV/HW2/HW2.uproject"  -Device=Win64@DESKTOP-KSAM6KJ'
+[2022.11.30-04.00.59:689][494]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Sophie/Desktop/School/CathT_CardosoV/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Sophie/Desktop/School/CathT_CardosoV/HW2/HW2.uproject"  -Device=Win64@DESKTOP-KSAM6KJ" -nocompile ]
+[2022.11.30-04.01.01:737][725]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.30-04.01.01:737][725]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-KSAM6KJ: (Name=DESKTOP-KSAM6KJ, Status=Valid, Installed=10.0.22621.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.11.30-04.01.04:032][959]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-KSAM6KJ
+[2022.11.30-04.01.06:436][240]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.11.30-04.01.06:454][240]LogPlayLevel: [PlayLevel] Compiling WidgetMenu1 before play...
+[2022.11.30-04.01.06:517][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.30-04.01.06:526][240]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2022.11.30-04.01.06:526][240]PIE: New page: PIE session: Map_Lose1 (Nov 29, 2022, 2:01:06 PM)
+[2022.11.30-04.01.06:530][240]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.30-04.01.06:530][240]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.30-04.01.06:530][240]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_Map_Lose1
+[2022.11.30-04.01.06:574][240]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044030s)
+[2022.11.30-04.01.06:574][240]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/Map_Lose1.Map_Lose1 to /Game/HW2/Maps/UEDPIE_0_Map_Lose1.Map_Lose1 (0.044151s)
+[2022.11.30-04.01.06:574][240]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-04.01.06:575][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.01.06:575][240]LogAIModule: Creating AISystem for world Map_Lose1
+[2022.11.30-04.01.06:575][240]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2022.11.30-04.01.06:606][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.30-04.01.06:607][240]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.30-04.01.06:607][240]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-04.01.06:607][240]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-04.01.06:607][240]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-04.01.06:607][240]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-04.01.06:607][240]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.30-04.01.06:608][240]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-04.01.06:608][240]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.30-04.01.06:608][240]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-04.01.06:609][240]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.30-04.01.06:609][240]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.30-04.01.06:609][240]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-04.01.06:611][240]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-04.01.06:640][240]LogAudioMixer: Display: Using Audio Hardware Device Razor (Razer Kraken Ultimate)
+[2022.11.30-04.01.06:641][240]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-04.01.06:641][240]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-04.01.06:641][240]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-04.01.06:641][240]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.30-04.01.06:641][240]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.30-04.01.06:643][240]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.30-04.01.06:643][240]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.30-04.01.06:643][240]LogInit: FAudioDevice initialized.
+[2022.11.30-04.01.06:643][240]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map_Lose1'.
+[2022.11.30-04.01.06:658][240]LogLoad: Game class is 'GM_HW2_C'
+[2022.11.30-04.01.06:668][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:668][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:668][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:668][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:668][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:668][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:668][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:669][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:670][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:672][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:673][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.01.06:674][240]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_Map_Lose1.Map_Lose1 up for play (max tick rate 0) at 2022.11.29-21.01.06
+[2022.11.30-04.01.06:675][240]LogWorld: Bringing up level for play took: 0.016875
+[2022.11.30-04.01.06:677][240]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.11.30-04.01.06:690][240]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-04.01.06:690][240]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-04.01.06:690][240]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-04.01.06:691][240]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.30-04.01.06:691][240]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.30-04.01.06:695][240]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-04.01.06:695][240]PIE: Server logged in
+[2022.11.30-04.01.06:696][240]PIE: Play in editor total start time 0.26 seconds.
+[2022.11.30-04.01.06:725][240]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.30-04.01.15:200][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-04.01.15:200][193]LogWorld: BeginTearingDown for /Game/HW2/Maps/UEDPIE_0_Map_Lose1
+[2022.11.30-04.01.15:201][193]LogWorld: UWorld::CleanupWorld for Map_Lose1, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.01.15:204][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.01.15:216][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-04.01.15:226][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.01.15:268][193]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-04.01.15:271][193]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.30-04.01.15:271][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.30-04.01.15:273][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.30-04.01.15:276][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-04.01.15:313][193]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.30-04.01.15:313][193]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.30-04.01.15:327][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.11.30-04.01.15:375][194]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.11.30-04.01.34:958][488]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HW2/UI/StatsHUD.StatsHUD
+[2022.11.30-04.01.34:959][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.01.34:966][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.01.35:380][488]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-04.01.35:380][488]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-04.01.39:323][943]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.01.39:323][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.01.39:343][943]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.01.39:344][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.02.09:716][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StylizedProvencal/Blueprints/BP_RiverSpline.BP_RiverSpline
+[2022.11.30-04.02.09:716][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.02.10:109][458]PIE: Warning: AttachTo: '/Engine/Transient.World_36:PersistentLevel.BP_RiverSpline_C_0.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.02.18:901][447]Cmd: DELETE
+[2022.11.30-04.02.18:901][447]Cmd: ACTOR DELETE
+[2022.11.30-04.02.18:911][447]LogEditorActor: Deleted Actor: BP_RiverSpline_C
+[2022.11.30-04.02.18:981][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.11.30-04.02.18:983][447]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2022.11.30-04.02.25:797][259]Cmd: DELETE
+[2022.11.30-04.02.25:797][259]Cmd: ACTOR DELETE
+[2022.11.30-04.02.25:805][259]LogEditorActor: Deleted Actor: BP_RiverSpline_C
+[2022.11.30-04.02.25:853][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.30-04.02.25:857][259]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.11.30-04.02.35:180][371]Cmd: DELETE
+[2022.11.30-04.02.35:180][371]Cmd: ACTOR DELETE
+[2022.11.30-04.02.35:187][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.35:237][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.30-04.02.35:240][371]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.11.30-04.02.35:855][441]Cmd: DELETE
+[2022.11.30-04.02.35:855][441]Cmd: ACTOR DELETE
+[2022.11.30-04.02.35:863][441]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.35:911][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.11.30-04.02.35:914][441]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.11.30-04.02.36:718][531]Cmd: DELETE
+[2022.11.30-04.02.36:718][531]Cmd: ACTOR DELETE
+[2022.11.30-04.02.36:727][531]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.36:775][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.30-04.02.36:779][531]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.11.30-04.02.37:452][607]Cmd: DELETE
+[2022.11.30-04.02.37:452][607]Cmd: ACTOR DELETE
+[2022.11.30-04.02.37:459][607]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.37:509][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.30-04.02.37:511][607]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2022.11.30-04.02.38:465][717]Cmd: DELETE
+[2022.11.30-04.02.38:466][717]Cmd: ACTOR DELETE
+[2022.11.30-04.02.38:473][717]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.38:520][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.30-04.02.38:524][717]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.11.30-04.02.39:474][827]Cmd: DELETE
+[2022.11.30-04.02.39:474][827]Cmd: ACTOR DELETE
+[2022.11.30-04.02.39:482][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.39:529][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.30-04.02.39:532][827]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.11.30-04.02.40:251][910]Cmd: DELETE
+[2022.11.30-04.02.40:251][910]Cmd: ACTOR DELETE
+[2022.11.30-04.02.40:259][910]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.40:307][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.30-04.02.40:309][910]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.11.30-04.02.41:134][  5]Cmd: DELETE
+[2022.11.30-04.02.41:135][  5]Cmd: ACTOR DELETE
+[2022.11.30-04.02.41:142][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.41:191][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.30-04.02.41:195][  5]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.11.30-04.02.41:864][ 82]Cmd: DELETE
+[2022.11.30-04.02.41:864][ 82]Cmd: ACTOR DELETE
+[2022.11.30-04.02.41:872][ 82]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.41:924][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.11.30-04.02.41:928][ 82]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2022.11.30-04.02.42:587][157]Cmd: DELETE
+[2022.11.30-04.02.42:587][157]Cmd: ACTOR DELETE
+[2022.11.30-04.02.42:595][157]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.42:641][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.11.30-04.02.42:644][157]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.11.30-04.02.43:336][237]Cmd: DELETE
+[2022.11.30-04.02.43:336][237]Cmd: ACTOR DELETE
+[2022.11.30-04.02.43:344][237]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.43:392][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.30-04.02.43:395][237]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2022.11.30-04.02.44:066][314]Cmd: DELETE
+[2022.11.30-04.02.44:066][314]Cmd: ACTOR DELETE
+[2022.11.30-04.02.44:074][314]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.44:121][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.30-04.02.44:124][314]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.11.30-04.02.44:764][387]Cmd: DELETE
+[2022.11.30-04.02.44:764][387]Cmd: ACTOR DELETE
+[2022.11.30-04.02.44:771][387]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.44:821][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.11.30-04.02.44:824][387]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.11.30-04.02.45:577][474]Cmd: DELETE
+[2022.11.30-04.02.45:578][474]Cmd: ACTOR DELETE
+[2022.11.30-04.02.45:585][474]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.45:632][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.30-04.02.45:635][474]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.11.30-04.02.46:406][563]Cmd: DELETE
+[2022.11.30-04.02.46:406][563]Cmd: ACTOR DELETE
+[2022.11.30-04.02.46:413][563]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.46:462][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.30-04.02.46:465][563]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.11.30-04.02.47:128][639]Cmd: DELETE
+[2022.11.30-04.02.47:128][639]Cmd: ACTOR DELETE
+[2022.11.30-04.02.47:136][639]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.47:185][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.30-04.02.47:188][639]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2022.11.30-04.02.47:801][709]Cmd: DELETE
+[2022.11.30-04.02.47:801][709]Cmd: ACTOR DELETE
+[2022.11.30-04.02.47:808][709]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.47:857][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.30-04.02.47:859][709]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2022.11.30-04.02.48:486][781]Cmd: DELETE
+[2022.11.30-04.02.48:486][781]Cmd: ACTOR DELETE
+[2022.11.30-04.02.48:494][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.48:541][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.30-04.02.48:543][781]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.11.30-04.02.49:209][857]Cmd: DELETE
+[2022.11.30-04.02.49:209][857]Cmd: ACTOR DELETE
+[2022.11.30-04.02.49:217][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.49:266][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.30-04.02.49:269][857]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.11.30-04.02.49:863][925]Cmd: DELETE
+[2022.11.30-04.02.49:864][925]Cmd: ACTOR DELETE
+[2022.11.30-04.02.49:871][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.49:917][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.30-04.02.49:921][925]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2022.11.30-04.02.50:597][  3]Cmd: DELETE
+[2022.11.30-04.02.50:597][  3]Cmd: ACTOR DELETE
+[2022.11.30-04.02.50:605][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.30-04.02.50:654][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.30-04.02.50:657][  3]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2022.11.30-04.02.52:983][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/Map_Lose1" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-04.02.53:029][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.11.30-04.02.53:131][269]LogSavePackage: Moving output files for package: /Game/HW2/Maps/Map_Lose1
+[2022.11.30-04.02.53:132][269]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Map_Lose11014624D4D9D96F04AA0918237E5C580.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/Map_Lose1.umap'
+[2022.11.30-04.02.53:174][269]AssetCheck: New page: Asset Save: Map_Lose1
+[2022.11.30-04.02.53:174][269]LogContentValidation: Display: Validating World /Game/HW2/Maps/Map_Lose1.Map_Lose1
+[2022.11.30-04.03.17:448][143]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HW2/UI/GameOverMenu.GameOverMenu
+[2022.11.30-04.03.17:448][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.03.17:455][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.03.17:812][143]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-04.03.17:812][143]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-04.03.19:883][371]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.03.19:883][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.04.58:943][999]BlueprintLog: New page: Compile GameOverMenu
+[2022.11.30-04.04.59:027][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.11.30-04.04.59:101][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/UI/GameOverMenu" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/UI/GameOverMenu.uasset" SILENT=true
+[2022.11.30-04.04.59:108][999]LogSavePackage: Moving output files for package: /Game/HW2/UI/GameOverMenu
+[2022.11.30-04.04.59:109][999]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/GameOverMenu3F1592B84E442598122B8E96B243D4B7.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/UI/GameOverMenu.uasset'
+[2022.11.30-04.04.59:128][999]AssetCheck: New page: Asset Save: GameOverMenu
+[2022.11.30-04.04.59:129][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/HW2/UI/GameOverMenu.GameOverMenu
+[2022.11.30-04.04.59:566][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/UI/GameOverMenu" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/UI/GameOverMenu.uasset" SILENT=true
+[2022.11.30-04.04.59:572][ 40]LogSavePackage: Moving output files for package: /Game/HW2/UI/GameOverMenu
+[2022.11.30-04.04.59:573][ 40]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/GameOverMenuAA88CBA7450AC718BC8CEDA969776CEA.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/UI/GameOverMenu.uasset'
+[2022.11.30-04.04.59:594][ 40]AssetCheck: New page: Asset Save: GameOverMenu
+[2022.11.30-04.04.59:594][ 40]LogContentValidation: Display: Validating WidgetBlueprint /Game/HW2/UI/GameOverMenu.GameOverMenu
+[2022.11.30-04.05.02:466][373]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HW2/UI/WinMenu.WinMenu
+[2022.11.30-04.05.02:466][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.05.02:478][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.05.02:848][373]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-04.05.02:848][373]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.30-04.05.19:196][230]BlueprintLog: New page: Compile GameOverMenu
+[2022.11.30-04.05.19:294][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.11.30-04.05.19:368][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/UI/GameOverMenu" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/UI/GameOverMenu.uasset" SILENT=true
+[2022.11.30-04.05.19:376][230]LogSavePackage: Moving output files for package: /Game/HW2/UI/GameOverMenu
+[2022.11.30-04.05.19:377][230]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/GameOverMenu68215B1D41E30B7BD1911CA3570EE1DF.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/UI/GameOverMenu.uasset'
+[2022.11.30-04.05.19:400][230]AssetCheck: New page: Asset Save: GameOverMenu
+[2022.11.30-04.05.19:400][230]LogContentValidation: Display: Validating WidgetBlueprint /Game/HW2/UI/GameOverMenu.GameOverMenu
+[2022.11.30-04.05.19:999][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/UI/GameOverMenu" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/UI/GameOverMenu.uasset" SILENT=true
+[2022.11.30-04.05.20:005][283]LogSavePackage: Moving output files for package: /Game/HW2/UI/GameOverMenu
+[2022.11.30-04.05.20:006][283]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/GameOverMenu11D4D2394AEB54BB0CDA6FB34E36BB10.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/UI/GameOverMenu.uasset'
+[2022.11.30-04.05.20:025][283]AssetCheck: New page: Asset Save: GameOverMenu
+[2022.11.30-04.05.20:025][283]LogContentValidation: Display: Validating WidgetBlueprint /Game/HW2/UI/GameOverMenu.GameOverMenu
+[2022.11.30-04.06.47:043][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.30-04.06.47:169][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:169][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:169][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:169][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:169][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:169][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:169][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:170][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:173][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:186][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/HW2/Maps/HW2Map.HW2Map
+[2022.11.30-04.06.47:186][797]Cmd: MAP LOAD FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.30-04.06.47:186][797]LightingResults: New page: Lighting Build
+[2022.11.30-04.06.47:186][797]LoadErrors: New page: Loading map: HW2Map.umap
+[2022.11.30-04.06.47:193][797]LogWorld: UWorld::CleanupWorld for Map_Lose1, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.06.47:193][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.06.47:194][797]MapCheck: New page: Map Check
+[2022.11.30-04.06.47:194][797]LightingResults: New page: Lighting Build
+[2022.11.30-04.06.47:247][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-04.06.47:263][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.30-04.06.47:267][797]LogWorld: UWorld::CleanupWorld for HW2Map, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.06.47:268][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.06.47:336][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.11.30-04.06.47:397][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.30-04.06.47:479][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'HW2Map'.
+[2022.11.30-04.06.47:479][797]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-04.06.47:479][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.06.47:480][797]LogAIModule: Creating AISystem for world HW2Map
+[2022.11.30-04.06.47:500][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:500][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:501][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:501][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:501][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:501][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:501][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:501][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:505][797]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.11.30-04.06.47:524][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.30-04.06.47:584][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.30-04.06.47:610][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.30-04.06.47:610][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2022.11.30-04.06.47:610][797]LogFileHelpers: Loading map 'HW2Map' took 0.424
+[2022.11.30-04.06.52:257][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.30-04.06.52:271][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.30-04.06.52:271][306]PIE: New page: PIE session: HW2Map (Nov 29, 2022, 2:06:52 PM)
+[2022.11.30-04.06.52:271][306]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.11.30-04.06.52:317][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045989s)
+[2022.11.30-04.06.52:317][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/HW2Map.HW2Map to /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map (0.046060s)
+[2022.11.30-04.06.52:317][306]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.30-04.06.52:317][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.06.52:317][306]LogAIModule: Creating AISystem for world HW2Map
+[2022.11.30-04.06.52:318][306]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2022.11.30-04.06.52:371][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.30-04.06.52:373][306]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.30-04.06.52:373][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.30-04.06.52:373][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.30-04.06.52:373][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.30-04.06.52:373][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.30-04.06.52:373][306]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.30-04.06.52:373][306]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.30-04.06.52:373][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.30-04.06.52:373][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.30-04.06.52:373][306]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.30-04.06.52:373][306]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.30-04.06.52:373][306]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.30-04.06.52:376][306]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.30-04.06.52:405][306]LogAudioMixer: Display: Using Audio Hardware Device Razor (Razer Kraken Ultimate)
+[2022.11.30-04.06.52:405][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.30-04.06.52:405][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.30-04.06.52:405][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.30-04.06.52:406][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.30-04.06.52:406][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.30-04.06.52:408][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.30-04.06.52:408][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.30-04.06.52:408][306]LogInit: FAudioDevice initialized.
+[2022.11.30-04.06.52:408][306]LogAudio: Display: Audio Device (ID: 3) registered with world 'HW2Map'.
+[2022.11.30-04.06.52:417][306]LogLoad: Game class is 'GM_HW2_C'
+[2022.11.30-04.06.52:428][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:429][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:431][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:432][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:433][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:434][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:435][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:435][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:435][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:435][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:435][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:435][306]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.11.30-04.06.52:435][306]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map up for play (max tick rate 0) at 2022.11.29-21.06.52
+[2022.11.30-04.06.52:436][306]LogWorld: Bringing up level for play took: 0.017631
+[2022.11.30-04.06.52:437][306]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2022.11.30-04.06.52:438][306]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-04.06.52:438][306]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.30-04.06.52:438][306]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-04.06.52:439][306]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.30-04.06.52:440][306]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.30-04.06.52:442][306]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.30-04.06.52:442][306]PIE: Server logged in
+[2022.11.30-04.06.52:442][306]PIE: Play in editor total start time 0.172 seconds.
+[2022.11.30-04.06.52:497][306]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.30-04.06.53:931][475]LogDerivedDataCache: C:/Users/Sophie/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.344 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.30-04.07.08:769][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-04.07.08:769][243]LogWorld: BeginTearingDown for /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.11.30-04.07.08:770][243]LogWorld: UWorld::CleanupWorld for HW2Map, bSessionEnded=true, bCleanupResources=true
+[2022.11.30-04.07.08:774][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.07.08:786][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.30-04.07.08:797][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.30-04.07.08:851][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.30-04.07.08:851][243]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.30-04.07.08:852][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.30-04.07.08:853][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.30-04.07.08:858][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.30-04.07.08:877][243]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.30-04.07.08:877][243]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.30-04.07.08:880][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.11.30-04.07.08:912][244]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.11.30-04.07.27:994][507]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.11.30-04.07.31:266][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/HW2Map" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-04.07.31:317][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.30-04.07.31:436][876]LogSavePackage: Moving output files for package: /Game/HW2/Maps/HW2Map
+[2022.11.30-04.07.31:438][876]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/HW2Map665F4E2B4C0BCDF0DF0BE3971F713C09.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap'
+[2022.11.30-04.07.31:484][876]AssetCheck: New page: Asset Save: HW2Map
+[2022.11.30-04.07.31:484][876]LogContentValidation: Display: Validating World /Game/HW2/Maps/HW2Map.HW2Map
+[2022.11.30-04.08.44:170][ 98]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.HW2Map
+[2022.11.30-04.08.44:170][ 98]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.30-04.17.31:687][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.11.30-04.17.31:800][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HW2/Maps/HW2Map_Auto2
+[2022.11.30-04.17.31:801][ 38]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/HW2Map_Auto25AF2BF444DAF584B03BC67AD710D7F24.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/Autosaves/Game/HW2/Maps/HW2Map_Auto2.umap'
+[2022.11.30-04.17.31:811][ 38]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HW2/Maps/HW2Map' took 0.191
+[2022.11.30-04.17.31:811][ 38]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.191
+[2022.11.30-04.20.39:331][279]BlueprintLog: New page: Compile HW2Map
+[2022.11.30-04.20.39:447][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.30-04.20.39:532][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/HW2Map" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-04.20.39:592][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.30-04.20.39:705][279]LogSavePackage: Moving output files for package: /Game/HW2/Maps/HW2Map
+[2022.11.30-04.20.39:707][279]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/HW2Map987EC78C4D3A2167C08D92A45D519889.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap'
+[2022.11.30-04.20.39:729][279]LogFileHelpers: Saving map 'HW2Map' took 0.198
+[2022.11.30-04.20.39:749][279]AssetCheck: New page: Asset Save: HW2Map
+[2022.11.30-04.20.39:749][279]LogContentValidation: Display: Validating World /Game/HW2/Maps/HW2Map.HW2Map
+[2022.11.30-04.20.40:683][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HW2/Maps/HW2Map" FILE="../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.30-04.20.40:743][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.30-04.20.40:855][374]LogSavePackage: Moving output files for package: /Game/HW2/Maps/HW2Map
+[2022.11.30-04.20.40:855][374]LogSavePackage: Moving '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Saved/HW2Map691BF2824B7FED7F65C077828D556CC8.tmp' to '../../../../../../Users/Sophie/Desktop/School/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap'
+[2022.11.30-04.20.40:879][374]LogFileHelpers: Saving map 'HW2Map' took 0.196
+[2022.11.30-04.20.40:896][374]AssetCheck: New page: Asset Save: HW2Map
+[2022.11.30-04.20.40:896][374]LogContentValidation: Display: Validating World /Game/HW2/Maps/HW2Map.HW2Map
+[2022.11.30-04.20.44:072][713]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2022.11.30-04.20.46:107][907]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
