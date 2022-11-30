@@ -63,5 +63,5 @@
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_IDENTIFIER=HW2
-/fo "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionEditor\Default.rc2.res"
+/fo "C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Plugins\VRExpansionPlugin\VRExpansionPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRExpansionEditor\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

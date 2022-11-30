@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\source\\hw2\\hw2.cpp",
+        "Source": "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\source\\hw2\\hw2.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\intermediate\\build\\win64\\hw2editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\intermediate\\build\\win64\\hw2editor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\intermediate\\build\\win64\\unrealeditor\\development\\hw2\\definitions.hw2.h",
-            "c:\\users\\sophie\\desktop\\school\\cs 310h\\hw2\\catht_cardosov\\hw2\\source\\hw2\\hw2.h"
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\intermediate\\build\\win64\\unrealeditor\\development\\hw2\\definitions.hw2.h",
+            "c:\\users\\sophie\\desktop\\school\\catht_cardosov\\hw2\\source\\hw2\\hw2.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

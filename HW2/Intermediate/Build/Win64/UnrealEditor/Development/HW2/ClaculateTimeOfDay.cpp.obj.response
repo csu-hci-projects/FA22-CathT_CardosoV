@@ -1,6 +1,6 @@
-"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Source\HW2\ClaculateTimeOfDay.cpp"
+C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Source\HW2\ClaculateTimeOfDay.cpp
 /I .
-/I "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Source"
+/I C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Source
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -272,12 +272,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\Definitions.HW2.h"
-/Yu"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\ClaculateTimeOfDay.cpp.obj"
-/sourceDependencies "C:\Users\Sophie\Desktop\School\CS 310H\hw2\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\ClaculateTimeOfDay.cpp.json"
+/FI"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\Definitions.HW2.h"
+/Yu"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\HW2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\ClaculateTimeOfDay.cpp.obj"
+/sourceDependencies C:\Users\Sophie\Desktop\School\CathT_CardosoV\HW2\Intermediate\Build\Win64\UnrealEditor\Development\HW2\ClaculateTimeOfDay.cpp.json
 /Zc:inline
 /nologo
 /Oi
