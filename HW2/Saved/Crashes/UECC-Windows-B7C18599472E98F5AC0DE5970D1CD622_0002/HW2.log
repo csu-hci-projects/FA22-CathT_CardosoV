@@ -1,0 +1,1717 @@
+﻿Log file open, 12/04/22 19:53:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=10612)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HW2
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.819] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen Threadripper 1900X 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="add395344bbb238c83b7c0b6adeb0cc9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.454060
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-B7C18599472E98F5AC0DE5970D1CD622
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.09 seconds
+LogConfig: Display: Loading Android ini files took 0.10 seconds
+LogConfig: Display: Loading IOS ini files took 0.10 seconds
+LogConfig: Display: Loading Mac ini files took 0.10 seconds
+LogConfig: Display: Loading Windows ini files took 0.11 seconds
+LogConfig: Display: Loading Unix ini files took 0.12 seconds
+LogConfig: Display: Loading TVOS ini files took 0.12 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.13 seconds
+LogConfig: Display: Loading Linux ini files took 0.13 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.16 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosVehiclesPlugin
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPluginManager: Mounting Project plugin VRExpansionPlugin
+LogPluginManager: Mounting Project plugin OpenVRExpansionPlugin
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosVehiclesPlugin/Content/' mounted to '/ChaosVehiclesPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.819] (), CPU: AMD Ryzen Threadripper 1900X 8-Core Processor  , GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:662][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.12.05-02.53.05:663][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.12.05-02.53.05:663][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.12.05-02.53.05:663][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.12.05-02.53.05:664][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.12.05-02.53.05:668][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.12.05-02.53.05:687][  0]LogD3D12RHI: Aftermath initialized
+[2022.12.05-02.53.05:687][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.12.05-02.53.05:903][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.12.05-02.53.05:903][  0]LogHMD: Optional extension XR_KHR_binding_modification is not available
+[2022.12.05-02.53.05:903][  0]LogHMD: Optional extension XR_EXT_dpad_binding is not available
+[2022.12.05-02.53.05:908][  0]LogHMD: Initialized OpenXR on Oculus runtime version 1.78.0
+[2022.12.05-02.53.06:121][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2080 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.12.05-02.53.06:121][  0]LogD3D12RHI: Adapter has 11041MB of dedicated video memory, 0MB of dedicated system memory, and 16320MB of shared system memory, 2 output[s]
+[2022.12.05-02.53.06:141][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.12.05-02.53.06:141][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16320MB of shared system memory, 0 output[s]
+[2022.12.05-02.53.06:142][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.12.05-02.53.06:142][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.05-02.53.06:142][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.12.05-02.53.06:142][  0]LogHAL: Display: Platform has ~ 32 GB [34227130368 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.05-02.53.06:142][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.12.05-02.53.06:142][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.12.05-02.53.06:143][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.05-02.53.06:144][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.12.05-02.53.06:144][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Saved/Config/WindowsEditor/Editor.ini]
+[2022.12.05-02.53.06:144][  0]LogInit: Computer: CONSTR-4-UCT
+[2022.12.05-02.53.06:144][  0]LogInit: User: 4X4S
+[2022.12.05-02.53.06:144][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.05-02.53.06:144][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.05-02.53.06:144][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.12.05-02.53.06:144][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.12.05-02.53.06:144][  0]LogMemory: Process Physical Memory: 298.27 MB used, 309.04 MB peak
+[2022.12.05-02.53.06:144][  0]LogMemory: Process Virtual Memory: 266.28 MB used, 266.28 MB peak
+[2022.12.05-02.53.06:144][  0]LogMemory: Physical Memory: 13005.76 MB used,  19635.78 MB free, 32641.54 MB total
+[2022.12.05-02.53.06:144][  0]LogMemory: Virtual Memory: 21293.75 MB used,  22099.78 MB free, 43393.54 MB total
+[2022.12.05-02.53.06:145][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.12.05-02.53.06:222][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.05-02.53.06:253][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.12.05-02.53.06:254][  0]LogInit: Using OS detected language (en-US).
+[2022.12.05-02.53.06:254][  0]LogInit: Using OS detected locale (en-US).
+[2022.12.05-02.53.06:264][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.12.05-02.53.06:502][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.05-02.53.06:535][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.12.05-02.53.06:535][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.12.05-02.53.06:535][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.12.05-02.53.06:535][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.12.05-02.53.06:556][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.05-02.53.06:556][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.05-02.53.06:761][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.12.05-02.53.06:768][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.12.05-02.53.06:768][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.12.05-02.53.06:887][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.12.05-02.53.06:947][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.12.05-02.53.06:958][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.12.05-02.53.06:986][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.12.05-02.53.07:018][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.12.05-02.53.07:018][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.12.05-02.53.07:049][  0]LogD3D12RHI:     GPU DeviceId: 0x1e07 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.05-02.53.07:049][  0]LogWindows: Attached monitors:
+[2022.12.05-02.53.07:049][  0]LogWindows:     resolution: 3840x2160, work area: (3840, 0) -> (7680, 2160), device: '\\.\DISPLAY1'
+[2022.12.05-02.53.07:049][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2160), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.12.05-02.53.07:049][  0]LogWindows: Found 2 attached monitors.
+[2022.12.05-02.53.07:049][  0]LogWindows: EnumDisplayDevices:
+[2022.12.05-02.53.07:050][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.12.05-02.53.07:050][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.12.05-02.53.07:051][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.12.05-02.53.07:051][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.12.05-02.53.07:051][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.05-02.53.07:051][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2022.12.05-02.53.07:051][  0]LogD3D12RHI:   Driver Version: 527.37 (internal:31.0.15.2737, unified:527.37)
+[2022.12.05-02.53.07:051][  0]LogD3D12RHI:      Driver Date: 11-26-2022
+[2022.12.05-02.53.07:051][  0]LogRHI: Texture pool is 6471 MB (70% of 9245 MB)
+[2022.12.05-02.53.07:052][  0]LogD3D12RHI: Async texture creation enabled
+[2022.12.05-02.53.07:052][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.12.05-02.53.07:052][  0]LogD3D12RHI: HDR output is supported on adapter 0, display 0:
+[2022.12.05-02.53.07:052][  0]LogD3D12RHI: 		MinLuminance = 0.100900
+[2022.12.05-02.53.07:052][  0]LogD3D12RHI: 		MaxLuminance = 603.698425
+[2022.12.05-02.53.07:052][  0]LogD3D12RHI: 		MaxFullFrameLuminance = 400.000000
+[2022.12.05-02.53.07:073][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.12.05-02.53.07:083][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/TurnkeyReport_0.log" -log="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/TurnkeyLog_0.log" -project="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject"  -platform=all'
+[2022.12.05-02.53.07:083][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/TurnkeyReport_0.log" -log="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/TurnkeyLog_0.log" -project="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject"  -platform=all" ]
+[2022.12.05-02.53.07:119][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.12.05-02.53.07:130][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.12.05-02.53.07:130][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.05-02.53.07:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.05-02.53.07:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.12.05-02.53.07:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.12.05-02.53.07:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.05-02.53.07:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.05-02.53.07:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.05-02.53.07:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.12.05-02.53.07:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.05-02.53.07:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.05-02.53.07:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.12.05-02.53.07:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.12.05-02.53.07:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.12.05-02.53.07:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.05-02.53.07:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.05-02.53.07:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.05-02.53.07:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.12.05-02.53.07:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.05-02.53.07:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.05-02.53.07:221][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.12.05-02.53.07:233][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.05-02.53.07:237][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.12.05-02.53.07:237][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.12.05-02.53.07:237][  0]LogTargetPlatformManager:   ADPCM
+[2022.12.05-02.53.07:237][  0]LogTargetPlatformManager:   PCM
+[2022.12.05-02.53.07:242][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.12.05-02.53.07:242][  0]LogTargetPlatformManager:   BINKA
+[2022.12.05-02.53.07:242][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.12.05-02.53.07:242][  0]LogTargetPlatformManager:   OGG
+[2022.12.05-02.53.07:242][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.12.05-02.53.07:242][  0]LogTargetPlatformManager:   OPUS
+[2022.12.05-02.53.07:294][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.12.05-02.53.07:302][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   SF_METAL
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.12.05-02.53.07:303][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.12.05-02.53.07:307][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.12.05-02.53.07:307][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.12.05-02.53.07:307][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.12.05-02.53.07:307][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.12.05-02.53.07:307][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.12.05-02.53.07:307][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.12.05-02.53.07:307][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.12.05-02.53.07:308][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.05-02.53.07:308][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.12.05-02.53.07:361][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.05-02.53.07:361][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.12.05-02.53.07:417][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.12.05-02.53.07:421][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.05-02.53.07:423][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.12.05-02.53.07:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.05-02.53.07:423][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.12.05-02.53.07:445][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.12.05-02.53.07:445][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.05-02.53.07:445][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.12.05-02.53.07:458][  0]LogDerivedDataCache: Speed tests for C:/Users/4X4S/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.05-02.53.07:458][  0]LogDerivedDataCache: Display: Performance to C:/Users/4X4S/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=172.44MBs, RandomWriteSpeed=134.32MBs. Assigned SpeedClass 'Local'
+[2022.12.05-02.53.07:459][  0]LogDerivedDataCache: Using Local data cache path C:/Users/4X4S/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.05-02.53.07:459][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.05-02.53.07:460][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.12.05-02.53.07:471][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.12.05-02.53.07:471][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.12.05-02.53.07:471][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/Shaders/WorkingDirectory/31604/).
+[2022.12.05-02.53.07:472][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/4X4S/AppData/Local/Temp/UnrealShaderWorkingDir/0CC08C3F416906AD9A108882E4F25ADE/'.
+[2022.12.05-02.53.07:472][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.05-02.53.07:472][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.12.05-02.53.09:444][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.12.05-02.53.09:444][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.05-02.53.09:445][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.05-02.53.09:508][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2022.12.05-02.53.09:522][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.12.05-02.53.09:817][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.12.05-02.53.09:818][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.12.05-02.53.10:409][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.05-02.53.10:409][  0]LogDeviceProfileManager: Active device profile: [0000079FBAC278C0][0000079F9A725000 50] WindowsEditor
+[2022.12.05-02.53.10:409][  0]LogDeviceProfileManager: Profiles: [0000079FBAC27380][0000079FB4830000 50] Windows, [0000079FBAC278C0][0000079F9A725000 50] WindowsEditor, [0000079FBAC25940][0000079FB4827800 50] WindowsServer, [0000079FBAC22F40][0000079FBAF40000 50] WindowsClient, [0000079FBAC26900][0000079FBAF45000 50] IOS, [0000079FBAC239C0][0000079FBAF47800 50] iPadAir2, [0000079FBAC27A80][0000079FBAF4C800 50] IPadPro, [0000079FBAC26C80][0000079FBAF4A000 50] iPadAir3, [0000079FBAC271C0][0000079FB4825000 50] iPadAir4, [0000079FBAC23B80][0000079FBAF50000 50] iPadMini4, [0000079FBAC24280][0000079FBAF55000 50] iPadMini5, [0000079FBAC255C0][0000079FBAF57800 50] iPadMini6, [0000079FBAC2A640][0000079FBAF42800 50] iPhone6S, [0000079FBAC2A9C0][0000079FBAF5C800 50] iPhone7, [0000079FBAC28340][0000079FBAF5A000 50] iPodTouch7, [0000079FBAC2A800][0000079FBAF80000 50] iPhone6SPlus, [0000079FBAC28180][0000079FBAF85000 50] iPhone7Plus, [0000079FBAC28A40][0000079FBAF87800 50] iPhoneSE, [0000079FBAC26E40][0000079FBAF8A000 50] iPhone8, [0000079FBAC2AB80][0000079FBAF8C800 50] iPhone8Plus, [0000079FBAC25B00][0000079FBAF52800 50] iPhoneX, [0000079FBAC2A480][0000079FBAF20000 50] iPhoneXS, [0000079FBAC25400][0000079FBAF25000 50] iPhoneXSMax, [0000079FBAC247C0][0000079FBAF27800 50] iPhoneXR, [0000079FBAC26AC0][0000079FBAF2A000 50] iPhone11, [0000079FBAC24D00][0000079FBAF2C800 50] iPhone11Pro, [0000079FBAC27FC0][0000079FBAF82800 50] iPhone11ProMax, [0000079FBAC29840][0000079FBAF60000 50] iPhoneSE2, [0000079FBAC22840][0000079FBAF65000 50] iPhone12Mini, [0000079FBAC27000][0000079FBAF67800 50] iPhone12, [0000079FBAC28DC0][0000079FBAF6A000 50] iPhone12Pro, [0000079FBAC23800][0000079FBAF6C800 50] iPhone12ProMax, [0000079FBAC28500][0000079FBAF22800 50] iPhone13Mini, [0000079FBAC23100][0000079FBAF90000 50] iPhone13, [0000079FBAC2A2C0][0000079FBAF95000 50] iPhone13Pro, [0000079FBAC24980][0000079FBAF97800 50] iPhone13ProMax, [0000079FBAC29A00][0000079FBAF9A000 50] iPadPro105, [0000079FBAC26200][0000079FBAF9C800 50] iPadPro129, [0000079FBAC23480][0000079FBAF62800 50] iPadPro97, [0000079FBAC28880][0000079FBAFA0000 50] iPadPro2_129, [0000079FBAC25240][0000079FBAFA5000 50] iPad5, [0000079FBAC24EC0][0000079FBAFA7800 50] iPad6, [0000079FBAC25E80][0000079FBAFAA000 50] iPad7, [0000079FBAC29300][0000079FBAFAC800 50] iPad8, [0000079FBAC240C0][0000079FBAF92800 50] iPad9, [0000079FBAC24440][0000079FBAFB0000 50] iPadPro11, [0000079FBAC27700][0000079FBAFB5000 50] iPadPro2_11, [0000079FBAC263C0][0000079FBAFB7800 50] iPadPro3_11, [0000079FBAC25080][0000079FBAFBA000 50] iPadPro3_129, [0000079FBAC24B40][0000079FBAFBC800 50] iPadPro4_129, [0000079FBAC27E00][0000079FBAFA2800 50] iPadPro5_129, [0000079FBAC29F40][0000079FBAFC0000 50] AppleTV, [0000079FBAC24600][0000079FBAFC5000 50] AppleTV4K, [0000079FBAC2AD40][0000079FBAFC7800 50] TVOS, [0000079FBAC2D740][0000079FBAFCC800 50] Mac, [0000079FBAC2DAC0][0000079FBAFCA000 50] MacEditor, [0000079FBAC2D3C0][0000079FBAFB2800 50] MacClient, [0000079FBAC2D200][0000079FBAFD0000 50] MacServer, [0000079FBAC2DE40][0000079FBAFD7800 50] Linux, [0000079FBAC2E1C0][0000079FBAFD5000 50] LinuxEditor, [0000079FBAC286C0][0000079FBAFDA000 50] LinuxArm64Editor, [0000079FBAC2B440][0000079FBAFDC800 50] LinuxArm64, [0000079FBAC2B280][0000079FBAFC2800 50] LinuxClient, [0000079FBAC2DC80][0000079FBAFE0000 50] LinuxArm64Client, [0000079FBAC2C400][0000079FBAFE5000 50] LinuxServer, [0000079FBAC232C0][0000079FBAFE7800 50] LinuxArm64Server, [0000079FBAC28F80][0000079FBAFEA000 50] Android, [0000079FBAC27C40][0000079FBAFEC800 50] Android_Preview_OpenGL, [0000079FBAC22D80][0000079FBAFD2800 50] Android_Preview_Vulkan, [0000079FBAC28C00][0000079FBAFF0000 50] Android_Low, [0000079FBAC29140][0000079FBAFF5000 50] Android_Mid, [0000079FBAC2C080][0000079FBAFF7800 50] Android_High, [0000079FBAC26040][0000079FBAFFA000 50] Android_Default, [0000079FBAC2E8C0][0000079FBAFFC800 50] Android_Adreno4xx, [0000079FBAC2A100][0000079FBAFE2800 50] Android_Adreno5xx_Low, [0000079FBAC2D580][0000079FBD010000 50] Android_Adreno5xx, [0000079FBAC2BEC0][0000079FBD015000 50] Android_Adreno6xx, [0000079FBAC2B980][0000079FBD017800 50] Android_Adreno6xx_Vulkan, [0000079FBAC2B600][0000079FBD01A000 50] Android_Adreno7xx, [0000079FBAC25780][0000079FBD01C800 50] Android_Adreno7xx_Vulkan, [0000079FBAC2CE80][0000079FBAFF2800 50] Android_Mali_T6xx, [0000079FBAC29680][0000079FBD020000 50] Android_Mali_T7xx, [0000079FBAC2E000][0000079FBD025000 50] Android_Mali_T8xx, [0000079FBAC2E380][0000079FBD027800 50] Android_Mali_G71, [0000079FBAC26740][0000079FBD02A000 50] Android_Mali_G72, [0000079FBAC2E540][0000079FBD02C800 50] Android_Mali_G72_Vulkan, [0000079FBAC294C0][0000079FBD012800 50] Android_Mali_G76, [0000079FBAC2C240][0000079FBD030000 50] Android_Mali_G76_Vulkan, [0000079FBAC2B0C0][0000079FBD035000 50] Android_Mali_G77, [0000079FBAC2EC40][0000079FBD037800 50] Android_Mali_G77_Vulkan, [0000079FBAC2E700][0000079FBD03A000 50] Android_Mali_G78, [0000079FBAC2D040][0000079FBD03C800 50] Android_Mali_G78_Vulkan, [0000079FBAC2EE00][0000079FBD022800 50] Android_Mali_G710, [0000079FBAC29BC0][0000079FBD040000 50] Android_Mali_G710_Vulkan, [0000079FBAC2C940][0000079FBD045000 50] Android_Xclipse_920, [0000079FBAC2EFC0][0000079FBD047800 50] Android_Xclipse_920_Vulkan, [0000079FBAC2BD00][0000079FBD04A000 50] Android_Vulkan_SM5, [0000079FBAC2F180][0000079FBD04C800 50] Android_PowerVR_G6xxx, [0000079FBD050000][0000079FBD032800 50] Android_PowerVR_GT7xxx, [0000079FBD052680][0000079FBD060000 50] Android_PowerVR_GE8xxx, [0000079FBD0524C0][0000079FBD065000 50] Android_PowerVR_GM9xxx, [0000079FBD052300][0000079FBD067800 50] Android_PowerVR_GM9xxx_Vulkan, [0000079FBD052140][0000079FBD06A000 50] Android_TegraK1, [0000079FBD051F80][0000079FBD06C800 50] Android_Unknown_Vulkan, [0000079FBD051DC0][0000079FBD042800 50] Oculus_Quest, [0000079FBD052F40][0000079FBD070000 50] Oculus_Quest2, [0000079FBD0501C0][0000079FBD075000 50] HoloLens, 
+[2022.12.05-02.53.10:409][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.12.05-02.53.10:413][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2022.12.05-02.53.10:413][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.12.05-02.53.10:413][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.12.05-02.53.10:413][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.12.05-02.53.10:413][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.12.05-02.53.10:413][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.12.05-02.53.10:413][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.22621.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.12.05-02.53.10:470][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.12.05-02.53.10:742][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.05-02.53.10:742][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.05-02.53.10:742][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.05-02.53.10:742][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.05-02.53.10:742][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.05-02.53.10:764][  0]LogNetVersion: HW2 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1425767973)
+[2022.12.05-02.53.11:064][  0]LogSlate: Border
+[2022.12.05-02.53.11:064][  0]LogSlate: BreadcrumbButton
+[2022.12.05-02.53.11:064][  0]LogSlate: Default
+[2022.12.05-02.53.11:065][  0]LogSlate: Icons.Save
+[2022.12.05-02.53.11:065][  0]LogSlate: Icons.Toolbar.Settings
+[2022.12.05-02.53.11:065][  0]LogSlate: ListView
+[2022.12.05-02.53.11:065][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.12.05-02.53.11:065][  0]LogSlate: SoftwareCursor_Grab
+[2022.12.05-02.53.11:065][  0]LogSlate: TableView.DarkRow
+[2022.12.05-02.53.11:065][  0]LogSlate: TableView.Row
+[2022.12.05-02.53.11:065][  0]LogSlate: TreeView
+[2022.12.05-02.53.11:390][  0]SourceControl: Source control is disabled
+[2022.12.05-02.53.11:450][  0]SourceControl: Source control is disabled
+[2022.12.05-02.53.11:450][  0]SourceControl: Source control is disabled
+[2022.12.05-02.53.11:748][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.12.05-02.53.11:764][  0]LogUObjectArray: 20891 objects as part of root set at end of initial load.
+[2022.12.05-02.53.11:764][  0]LogUObjectAllocator: 5800736 out of 0 bytes used by permanent object pool.
+[2022.12.05-02.53.11:764][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.05-02.53.12:477][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 729D33E7425CFB75C2EC368224BC5A98 | Instance: 6E58439449DCE489228AE0AB28D2ED2B (CONSTR-4-UCT-31604).
+[2022.12.05-02.53.12:604][  0]LogPython: Using Python 3.9.7
+[2022.12.05-02.53.13:871][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.05-02.53.13:879][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.05-02.53.14:111][  0]SourceControl: Source control is disabled
+[2022.12.05-02.53.14:121][  0]SourceControl: Source control is disabled
+[2022.12.05-02.53.14:190][  0]SourceControl: Source control is disabled
+[2022.12.05-02.53.14:329][  0]LogUProjectInfo: Found projects:
+[2022.12.05-02.53.14:630][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.05-02.53.14:666][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.05-02.53.14:689][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.05-02.53.14:689][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.05-02.53.15:175][  0]LogCollectionManager: Loaded 0 collections in 0.004160 seconds
+[2022.12.05-02.53.15:346][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Saved/Collections/' took 0.00s
+[2022.12.05-02.53.15:346][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/Developers/4X4S/Collections/' took 0.00s
+[2022.12.05-02.53.15:346][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/Collections/' took 0.00s
+[2022.12.05-02.53.15:346][  0]LogOcInput: OculusInput pre-init called
+[2022.12.05-02.53.16:277][  0]LogClass: Warning: StructProperty FVRGesture::GestureSize is not initialized properly even though its struct probably has a custom default constructor. Module:VRExpansionPlugin File:Public/VRGestureComponent.h
+[2022.12.05-02.53.16:277][  0]LogClass: Display: 1 Uninitialized script struct members found including 0 object properties
+[2022.12.05-02.53.16:281][  0]LogAutomationTest: Warning: StructProperty FVRGesture::GestureSize is not initialized properly even though its struct probably has a custom default constructor. Module:VRExpansionPlugin File:Public/VRGestureComponent.h
+[2022.12.05-02.53.16:282][  0]LogEngine: Initializing Engine...
+[2022.12.05-02.53.16:427][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.12.05-02.53.17:052][  0]LogTexture: Display: Waiting for textures to be ready 78/84 (/Engine/EngineMaterials/BaseFlattenLinearColor_VT) ...
+[2022.12.05-02.53.17:085][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.05-02.53.17:086][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-02.53.17:104][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.53.17:129][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.05-02.53.17:130][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.05-02.53.17:149][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.05-02.53.17:150][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.05-02.53.17:150][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.12.05-02.53.17:150][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.05-02.53.17:150][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.05-02.53.17:150][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-02.53.17:150][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-02.53.17:150][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-02.53.17:150][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-02.53.17:150][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-02.53.17:150][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-02.53.17:150][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-02.53.17:150][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-02.53.17:151][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-02.53.17:151][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-02.53.17:151][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-02.53.17:161][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-02.53.17:312][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2022.12.05-02.53.17:312][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-02.53.17:315][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-02.53.17:315][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-02.53.17:328][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.12.05-02.53.17:328][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.05-02.53.17:329][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.05-02.53.17:329][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.12.05-02.53.17:329][  0]LogInit: FAudioDevice initialized.
+[2022.12.05-02.53.17:330][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.05-02.53.17:330][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.05-02.53.17:330][  0]LogInit: Texture streaming: Enabled
+[2022.12.05-02.53.17:360][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.12.05-02.53.17:369][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.05-02.53.17:389][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.12.05-02.53.17:398][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.12.05-02.53.17:398][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: HW2Editor Win64 Development
+[2022.12.05-02.53.20:592][  0]LogLiveCoding: Display: First instance in process group "UE_HW2_0xf98f50c2", spawning console
+[2022.12.05-02.53.20:592][  0]LogLiveCoding: Display: Waiting for server
+[2022.12.05-02.53.20:592][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.12.05-02.53.20:644][  0]LogInit: Transaction tracking system initialized
+[2022.12.05-02.53.20:710][  0]BlueprintLog: New page: Editor Load
+[2022.12.05-02.53.20:899][  0]LocalizationService: Localization service is disabled
+[2022.12.05-02.53.20:946][  0]TimingProfiler: Initialize
+[2022.12.05-02.53.20:946][  0]TimingProfiler: OnSessionChanged
+[2022.12.05-02.53.20:947][  0]LoadingProfiler: Initialize
+[2022.12.05-02.53.20:947][  0]LoadingProfiler: OnSessionChanged
+[2022.12.05-02.53.20:947][  0]NetworkingProfiler: Initialize
+[2022.12.05-02.53.20:947][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.05-02.53.20:947][  0]MemoryProfiler: Initialize
+[2022.12.05-02.53.20:947][  0]MemoryProfiler: OnSessionChanged
+[2022.12.05-02.53.21:762][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/' took 0.07s
+[2022.12.05-02.53.21:762][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.12.05-02.53.21:976][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.05-02.53.21:980][  0]SourceControl: Source control is disabled
+[2022.12.05-02.53.21:980][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.159
+[2022.12.05-02.53.21:980][  0]Cmd: MAP LOAD FILE="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.05-02.53.21:981][  0]LightingResults: New page: Lighting Build
+[2022.12.05-02.53.21:986][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-02.53.21:986][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.53.21:987][  0]MapCheck: New page: Map Check
+[2022.12.05-02.53.21:987][  0]LightingResults: New page: Lighting Build
+[2022.12.05-02.53.21:994][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-02.53.21:998][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.12.05-02.53.40:611][  0]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2022.12.05-02.53.40:656][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'HW2Map'.
+[2022.12.05-02.53.40:656][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-02.53.40:657][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.53.40:657][  0]LogAIModule: Creating AISystem for world HW2Map
+[2022.12.05-02.53.40:684][  0]LogMaterial: Display: Material /Game/Fantastic_Village_Pack/materials/master_materials/M_Master_transparent.M_Master_transparent needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2022.12.05-02.53.40:712][  0]LogMaterial: Display: Missing cached shadermap for M_Master_transparent in PCD3D_SM5, Default, SM5 (DDC key hash: 8FD6DDBBE2A3D4FD0291318691DA6434E8178F49), compiling. 
+[2022.12.05-02.53.40:965][  0]MapCheck: Warning: M_Master_transparent Material /Game/Fantastic_Village_Pack/materials/master_materials/M_Master_transparent.M_Master_transparent was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2022.12.05-02.53.41:116][  0]LogRenderer: Warning: Deprectaed CVar r.BasePassOutputsVelocity is set to 0. Remove and use r.VelocityOutputPass instead.
+[2022.12.05-02.53.41:116][  0]LogRenderer: Warning: Deprectaed CVar r.VertexDeformationOutputsVelocity is set to 0. Remove and use r.Velocity.EnableVertexDeformation instead.
+[2022.12.05-02.53.41:116][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.05-02.53.41:142][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.12.05-02.53.41:143][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.05-02.53.41:143][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.414ms to complete.
+[2022.12.05-02.53.41:177][  0]LogFileHelpers: Loading map 'HW2Map' took 19.197
+[2022.12.05-02.53.41:283][  0]LogUnrealEdMisc: Total Editor Startup Time, took 39.462
+[2022.12.05-02.53.41:283][  0]LogShaderCompilers: Display: ================================================
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: Total job queries 88, among them cache hits 0 (0.00%)
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: Shaders Compiled: 88
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: Jobs assigned 80, completed 0 (0.00%)
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.12.05-02.53.41:284][  0]LogShaderCompilers: Display: ================================================
+[2022.12.05-02.53.41:455][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.05-02.53.41:455][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.05-02.53.41:455][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.05-02.53.41:455][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.05-02.53.41:455][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.12.05-02.53.41:492][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.53.41:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.53.41:511][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.53.41:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.53.41:966][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.12.05-02.53.41:966][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.41:981][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.12.05-02.53.41:982][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.41:994][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.12.05-02.53.41:994][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.42:007][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.12.05-02.53.42:007][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.42:030][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.12.05-02.53.42:030][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.42:044][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.12.05-02.53.42:044][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.42:057][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.12.05-02.53.42:057][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.42:069][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.12.05-02.53.42:069][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.42:078][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.12.05-02.53.42:079][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.42:091][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.12.05-02.53.42:091][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.05-02.53.42:092][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.12.05-02.53.42:763][  0]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.05-02.53.42:779][  0]LogSlate: Took 0.008669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.05-02.53.42:794][  0]LogSlate: Took 0.013407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.05-02.53.42:828][  0]LogViewport: Scene viewport resized to 3246x2022, mode Windowed.
+[2022.12.05-02.53.43:569][  0]LogStall: Startup...
+[2022.12.05-02.53.43:573][  0]LogStall: Startup complete.
+[2022.12.05-02.53.43:600][  0]LogLoad: (Engine Initialization) Total time: 41.78 seconds
+[2022.12.05-02.53.43:600][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.05-02.53.43:783][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.05-02.53.43:898][  0]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18412
+[2022.12.05-02.53.43:898][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.05-02.53.44:108][  1]LogAssetRegistry: Asset discovery search completed in 34.6041 seconds
+[2022.12.05-02.53.44:186][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2022.12.05-02.53.44:244][  1]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{aadfccec-b649-4592-8005-97e5886334fc}, Name=Speakers (Focusrite USB Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=130.27
+[2022.12.05-02.53.44:244][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.05-02.53.44:337][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.05-02.53.44:337][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:345][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:346][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:346][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:347][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:347][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:347][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:347][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:347][  1]PIE: Warning: AttachTo: '/Game/HW2/Maps/HW2Map.HW2Map:PersistentLevel.BP_RiverSpline_C_1.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2022.12.05-02.53.44:660][  2]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-02.53.44:690][  2]LogSlate: Took 0.000486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.05-02.53.49:428][140]LogSlate: Took 0.012072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.05-02.53.49:485][140]LogSlate: Took 0.010443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.05-02.53.55:920][302]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2022.12.05-02.53.56:087][309]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HW2/Blueprints/Props/BP_DrawBridge.BP_DrawBridge
+[2022.12.05-02.53.56:088][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.54.05:881][309]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.12.05-02.54.05:881][309]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049611s
+[2022.12.05-02.54.06:221][309]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000807s (2.886315s overbudget)
+[2022.12.05-02.54.06:271][309]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.05-02.54.42:814][905]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.05-02.54.59:104][176]BlueprintLog: New page: Compile BP_DrawBridge
+[2022.12.05-02.54.59:177][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.12.05-02.54.59:308][176]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.008587 seconds
+[2022.12.05-02.54.59:324][176]LogSavePackage: Moving output files for package: /Game/HW2/Blueprints/Props/BP_DrawBridge
+[2022.12.05-02.54.59:325][176]LogSavePackage: Moving 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Saved/BP_DrawBridge9775B423484871DEC5E670B5F781096C.tmp' to 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/HW2/Blueprints/Props/BP_DrawBridge.uasset'
+[2022.12.05-02.54.59:369][176]AssetCheck: New page: Asset Save: BP_DrawBridge
+[2022.12.05-02.54.59:369][176]LogContentValidation: Display: Validating Blueprint /Game/HW2/Blueprints/Props/BP_DrawBridge.BP_DrawBridge
+[2022.12.05-02.55.05:022][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-02.55.05:024][516]PIE: New page: SIE session: HW2Map (Dec 4, 2022, 12:55:05 PM)
+[2022.12.05-02.55.05:028][516]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.12.05-02.55.05:028][516]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.05-02.55.05:029][516]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.55.05:083][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053681s)
+[2022.12.05-02.55.05:083][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/HW2Map.HW2Map to /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map (0.054099s)
+[2022.12.05-02.55.05:083][516]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-02.55.05:083][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.55.05:084][516]LogAIModule: Creating AISystem for world HW2Map
+[2022.12.05-02.55.05:084][516]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2022.12.05-02.55.05:123][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.12.05-02.55.05:124][516]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.05-02.55.05:124][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-02.55.05:124][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-02.55.05:124][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-02.55.05:124][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-02.55.05:124][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-02.55.05:124][516]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-02.55.05:124][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-02.55.05:124][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-02.55.05:125][516]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-02.55.05:125][516]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-02.55.05:125][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-02.55.05:127][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-02.55.05:184][516]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2022.12.05-02.55.05:184][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-02.55.05:184][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-02.55.05:184][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-02.55.05:185][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.12.05-02.55.05:185][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.12.05-02.55.05:187][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.12.05-02.55.05:187][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.12.05-02.55.05:187][516]LogInit: FAudioDevice initialized.
+[2022.12.05-02.55.05:187][516]LogAudio: Display: Audio Device (ID: 2) registered with world 'HW2Map'.
+[2022.12.05-02.55.05:203][516]LogLoad: Game class is 'GM_HW2_C'
+[2022.12.05-02.55.05:224][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:224][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:224][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:226][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:226][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:226][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:226][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:226][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:227][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:227][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:227][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:227][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:227][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:227][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:228][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:228][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:228][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:228][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:228][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:228][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:229][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:229][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:229][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:229][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:229][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:229][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:230][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:230][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:230][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:230][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:230][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:230][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:231][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:231][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:231][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:231][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:231][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:232][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:232][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:232][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:232][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:232][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:232][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:233][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:233][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:233][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:233][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:233][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:233][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:234][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:234][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:234][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:234][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:234][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:234][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:235][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:235][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:235][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:235][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:235][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:236][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:236][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:236][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:236][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:236][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:236][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:237][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:237][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:237][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:237][516]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.05:237][516]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map up for play (max tick rate 0) at 2022.12.04-19.55.05
+[2022.12.05-02.55.05:238][516]LogWorld: Bringing up level for play took: 0.035384
+[2022.12.05-02.55.05:240][516]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.12.05-02.55.05:260][516]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.55.05:265][516]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.55.05:266][516]PIE: Server logged in
+[2022.12.05-02.55.05:267][516]PIE: Play in editor total start time 0.245 seconds.
+[2022.12.05-02.55.06:027][518]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-02.55.06:028][518]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestDay1'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2022.12.05-02.55.09:355][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.55.09:355][693]LogWorld: BeginTearingDown for /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.55.09:356][693]LogWorld: UWorld::CleanupWorld for HW2Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-02.55.09:366][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.55.09:385][693]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-02.55.09:392][693]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.55.09:438][693]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-02.55.09:440][693]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-02.55.09:440][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.05-02.55.09:441][693]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.12.05-02.55.09:447][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.55.09:491][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.05-02.55.09:541][694]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.05-02.55.10:733][761]LogTurnkeySupport: Display: Adding device menu item for CONSTR-4-UCT
+[2022.12.05-02.55.10:734][761]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/TurnkeyReport_1.log" -log="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/TurnkeyLog_1.log" -project="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject"  -Device=Android_ASTC@1WMHHB6BHR2214+Android_Multi@1WMHHB6BHR2214+Win64@CONSTR-4-UCT'
+[2022.12.05-02.55.10:734][761]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/TurnkeyReport_1.log" -log="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Intermediate/TurnkeyLog_1.log" -project="D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/HW2.uproject"  -Device=Android_ASTC@1WMHHB6BHR2214+Android_Multi@1WMHHB6BHR2214+Win64@CONSTR-4-UCT" -nocompile ]
+[2022.12.05-02.55.12:180][855]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.12.05-02.55.12:180][855]LogTurnkeySupport: Turnkey Device: Win64@CONSTR-4-UCT: (Name=CONSTR-4-UCT, Status=Valid, Installed=10.0.22621.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.12.05-02.55.15:588][114]LogDerivedDataCache: C:/Users/4X4S/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.128 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-02.55.19:616][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-02.55.19:616][423]PIE: New page: PIE session: HW2Map (Dec 4, 2022, 12:55:19 PM)
+[2022.12.05-02.55.19:616][423]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.55.19:666][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050356s)
+[2022.12.05-02.55.19:666][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/HW2Map.HW2Map to /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map (0.050492s)
+[2022.12.05-02.55.19:666][423]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-02.55.19:666][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.55.19:667][423]LogAIModule: Creating AISystem for world HW2Map
+[2022.12.05-02.55.19:667][423]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2022.12.05-02.55.19:715][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.12.05-02.55.19:719][423]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.05-02.55.19:719][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-02.55.19:720][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-02.55.19:720][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-02.55.19:720][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-02.55.19:720][423]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-02.55.19:720][423]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-02.55.19:720][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-02.55.19:720][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-02.55.19:720][423]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-02.55.19:720][423]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-02.55.19:720][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-02.55.19:722][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-02.55.19:774][423]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2022.12.05-02.55.19:774][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-02.55.19:775][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-02.55.19:775][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-02.55.19:775][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.05-02.55.19:775][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.05-02.55.19:778][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.05-02.55.19:778][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.05-02.55.19:778][423]LogInit: FAudioDevice initialized.
+[2022.12.05-02.55.19:778][423]LogAudio: Display: Audio Device (ID: 3) registered with world 'HW2Map'.
+[2022.12.05-02.55.19:791][423]LogLoad: Game class is 'GM_HW2_C'
+[2022.12.05-02.55.19:808][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:808][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:808][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:808][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:809][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:809][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:809][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:809][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:809][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:810][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:810][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:811][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:811][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:811][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:811][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:812][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:812][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:812][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:812][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:812][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:812][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:813][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:813][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:813][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:813][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:813][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:814][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:814][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:814][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:814][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:814][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:815][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:815][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:815][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:815][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:815][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:816][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:816][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:816][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:816][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:817][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:817][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:817][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:817][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:817][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:818][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:818][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:818][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:818][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:818][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:818][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:818][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:818][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:819][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:819][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:819][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:820][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:820][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:820][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:820][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:820][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:820][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:820][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:820][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:821][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:821][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:821][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:821][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:821][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:821][423]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.55.19:823][423]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map up for play (max tick rate 0) at 2022.12.04-19.55.19
+[2022.12.05-02.55.19:823][423]LogWorld: Bringing up level for play took: 0.031460
+[2022.12.05-02.55.19:825][423]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.12.05-02.55.19:826][423]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.55.19:826][423]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.55.19:826][423]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.55.19:828][423]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.55.19:828][423]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.55.19:833][423]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.55.19:833][423]PIE: Server logged in
+[2022.12.05-02.55.19:833][423]PIE: Play in editor total start time 0.219 seconds.
+[2022.12.05-02.55.19:866][423]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-02.55.20:096][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.20:096][436]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.20:098][436]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestDay1'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2022.12.05-02.55.20:591][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.20:591][485]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.21:094][532]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.21:094][532]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.21:598][579]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.21:598][579]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.22:087][627]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.22:087][627]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.22:589][676]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.22:589][676]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.23:086][724]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.23:086][724]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.23:588][771]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.23:588][771]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.55.23:843][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.55.23:843][795]LogWorld: BeginTearingDown for /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.55.23:845][795]LogWorld: UWorld::CleanupWorld for HW2Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-02.55.23:854][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.55.23:869][795]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-02.55.23:876][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.55.23:920][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-02.55.23:921][795]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-02.55.23:921][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.05-02.55.23:923][795]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.05-02.55.23:928][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.55.23:942][795]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-02.55.23:942][795]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.55.23:944][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.12.05-02.55.23:994][796]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.12.05-02.55.47:858][840]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-02.55.54:358][291]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-02.55.56:088][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.05-02.55.56:348][425]LogSavePackage: Moving output files for package: /Game/HW2/Maps/HW2Map
+[2022.12.05-02.55.56:349][425]LogSavePackage: Moving 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Saved/HW2MapD3A3EE1E4D5E82025DAC33BE347F3D7D.tmp' to 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap'
+[2022.12.05-02.55.56:370][425]LogFileHelpers: No new changes to save!
+[2022.12.05-02.55.56:422][425]AssetCheck: New page: Asset Save: HW2Map
+[2022.12.05-02.55.56:422][425]LogContentValidation: Display: Validating World /Game/HW2/Maps/HW2Map.HW2Map
+[2022.12.05-02.55.57:312][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.05-02.55.59:813][710]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.05-02.55.59:824][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-02.55.59:825][710]PIE: New page: PIE session: HW2Map (Dec 4, 2022, 12:55:59 PM)
+[2022.12.05-02.55.59:864][710]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.55.59:918][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054931s)
+[2022.12.05-02.55.59:918][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/HW2Map.HW2Map to /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map (0.055097s)
+[2022.12.05-02.55.59:918][710]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-02.55.59:918][710]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.55.59:919][710]LogAIModule: Creating AISystem for world HW2Map
+[2022.12.05-02.55.59:920][710]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.12.05-02.55.59:961][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.05-02.55.59:961][710]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.05-02.55.59:962][710]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-02.55.59:962][710]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-02.55.59:962][710]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-02.55.59:962][710]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-02.55.59:962][710]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-02.55.59:962][710]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-02.55.59:962][710]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-02.55.59:962][710]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-02.55.59:962][710]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-02.55.59:962][710]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-02.55.59:962][710]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-02.55.59:964][710]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-02.56.00:018][710]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2022.12.05-02.56.00:018][710]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-02.56.00:018][710]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-02.56.00:018][710]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-02.56.00:020][710]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.05-02.56.00:020][710]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.05-02.56.00:022][710]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.05-02.56.00:022][710]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.05-02.56.00:022][710]LogInit: FAudioDevice initialized.
+[2022.12.05-02.56.00:022][710]LogAudio: Display: Audio Device (ID: 4) registered with world 'HW2Map'.
+[2022.12.05-02.56.00:040][710]LogLoad: Game class is 'GM_HW2_C'
+[2022.12.05-02.56.00:059][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:059][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:059][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:059][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:059][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:060][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:060][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:060][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:061][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:061][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:061][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:061][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:061][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:061][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:062][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:062][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:062][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:062][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:062][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:062][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:063][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:063][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:063][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:063][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:063][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:063][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:064][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:064][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:064][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:064][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:064][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:065][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:065][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:065][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:065][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:065][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:066][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:066][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:066][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:066][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:066][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:066][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:067][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:067][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:067][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:067][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:067][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:068][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:068][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:068][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:068][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:068][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:068][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:068][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:069][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:069][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:069][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:069][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:069][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:069][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:070][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:070][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:071][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:071][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:071][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:071][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:071][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:071][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:072][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:072][710]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.00:072][710]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map up for play (max tick rate 0) at 2022.12.04-19.56.00
+[2022.12.05-02.56.00:073][710]LogWorld: Bringing up level for play took: 0.032053
+[2022.12.05-02.56.00:074][710]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.12.05-02.56.00:075][710]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.56.00:075][710]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.56.00:075][710]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.56.00:076][710]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.00:076][710]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.00:081][710]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.56.00:081][710]PIE: Server logged in
+[2022.12.05-02.56.00:082][710]PIE: Play in editor total start time 0.257 seconds.
+[2022.12.05-02.56.00:112][710]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-02.56.00:322][723]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.00:322][723]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.00:323][723]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestDay1'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2022.12.05-02.56.00:825][775]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.00:825][775]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.01:324][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.01:324][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.01:819][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.01:819][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.02:323][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.02:323][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.02:824][985]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.02:824][985]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.02:984][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.56.02:984][998]LogWorld: BeginTearingDown for /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.56.02:985][998]LogWorld: UWorld::CleanupWorld for HW2Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-02.56.02:993][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.56.03:012][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-02.56.03:020][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.56.03:061][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.56.03:064][998]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-02.56.03:064][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.05-02.56.03:066][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.05-02.56.03:083][998]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-02.56.03:085][998]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.03:087][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.05-02.56.03:138][999]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.12.05-02.56.13:672][ 43]BlueprintLog: New page: Compile BP_DrawBridge
+[2022.12.05-02.56.13:745][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.12.05-02.56.13:895][ 43]LogSavePackage: Moving output files for package: /Game/HW2/Blueprints/Props/BP_DrawBridge
+[2022.12.05-02.56.13:896][ 43]LogSavePackage: Moving 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Saved/BP_DrawBridge03C268284530F1101139789E9D01AC56.tmp' to 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/HW2/Blueprints/Props/BP_DrawBridge.uasset'
+[2022.12.05-02.56.13:925][ 43]AssetCheck: New page: Asset Save: BP_DrawBridge
+[2022.12.05-02.56.13:925][ 43]LogContentValidation: Display: Validating Blueprint /Game/HW2/Blueprints/Props/BP_DrawBridge.BP_DrawBridge
+[2022.12.05-02.56.20:337][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.05-02.56.20:348][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-02.56.20:348][651]PIE: New page: PIE session: HW2Map (Dec 4, 2022, 12:56:20 PM)
+[2022.12.05-02.56.20:348][651]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.56.20:395][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047192s)
+[2022.12.05-02.56.20:395][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/HW2Map.HW2Map to /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map (0.047322s)
+[2022.12.05-02.56.20:396][651]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-02.56.20:396][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.56.20:396][651]LogAIModule: Creating AISystem for world HW2Map
+[2022.12.05-02.56.20:397][651]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2022.12.05-02.56.20:438][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.05-02.56.20:439][651]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.05-02.56.20:439][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-02.56.20:439][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-02.56.20:439][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-02.56.20:439][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-02.56.20:439][651]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-02.56.20:439][651]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-02.56.20:439][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-02.56.20:439][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-02.56.20:440][651]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-02.56.20:440][651]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-02.56.20:440][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-02.56.20:442][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-02.56.20:497][651]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2022.12.05-02.56.20:497][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-02.56.20:497][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-02.56.20:498][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-02.56.20:498][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.12.05-02.56.20:498][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.12.05-02.56.20:500][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.12.05-02.56.20:500][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.12.05-02.56.20:500][651]LogInit: FAudioDevice initialized.
+[2022.12.05-02.56.20:500][651]LogAudio: Display: Audio Device (ID: 5) registered with world 'HW2Map'.
+[2022.12.05-02.56.20:516][651]LogLoad: Game class is 'GM_HW2_C'
+[2022.12.05-02.56.20:533][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:533][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:534][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:534][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:534][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:534][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:534][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:534][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:536][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:536][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:536][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:536][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:536][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:536][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:537][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:537][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:537][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:537][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:537][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:537][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:538][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:539][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:539][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:539][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:539][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:539][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:540][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:540][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:540][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:541][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:541][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:541][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:541][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:541][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:541][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:542][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:542][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:542][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:542][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:542][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:542][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:543][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:543][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:543][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:543][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:544][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:544][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:544][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:544][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:544][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:545][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:545][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:545][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:545][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:546][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:546][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:546][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:546][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:546][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:547][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:547][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:547][651]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.20:547][651]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map up for play (max tick rate 0) at 2022.12.04-19.56.20
+[2022.12.05-02.56.20:548][651]LogWorld: Bringing up level for play took: 0.030950
+[2022.12.05-02.56.20:550][651]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.12.05-02.56.20:552][651]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.56.20:552][651]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.56.20:552][651]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.56.20:552][651]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.20:553][651]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.20:556][651]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.56.20:556][651]PIE: Server logged in
+[2022.12.05-02.56.20:556][651]PIE: Play in editor total start time 0.209 seconds.
+[2022.12.05-02.56.20:637][651]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-02.56.20:849][669]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.20:849][669]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.20:851][669]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestDay1'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2022.12.05-02.56.21:350][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.21:350][720]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.21:842][770]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.21:842][770]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.22:344][822]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.22:344][822]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.22:839][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.22:839][874]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.23:345][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.23:345][927]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.23:845][979]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.23:845][979]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.24:339][ 31]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.24:339][ 31]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.24:841][ 83]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.24:842][ 83]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.25:340][134]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.25:340][134]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.25:846][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.25:846][186]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.25:984][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.56.25:984][195]LogWorld: BeginTearingDown for /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.56.25:985][195]LogWorld: UWorld::CleanupWorld for HW2Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-02.56.25:993][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.56.26:013][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-02.56.26:023][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.56.26:072][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.05-02.56.26:072][195]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-02.56.26:073][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.05-02.56.26:074][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.05-02.56.26:079][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.56.26:094][195]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-02.56.26:094][195]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.26:096][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.05-02.56.26:185][196]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.12.05-02.56.35:264][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.05-02.56.35:522][864]LogSavePackage: Moving output files for package: /Game/HW2/Maps/HW2Map
+[2022.12.05-02.56.35:523][864]LogSavePackage: Moving 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Saved/HW2Map82EDA39A4AE003211DA237B7E8D59177.tmp' to 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/HW2/Maps/HW2Map.umap'
+[2022.12.05-02.56.35:545][864]LogFileHelpers: No new changes to save!
+[2022.12.05-02.56.35:591][864]AssetCheck: New page: Asset Save: HW2Map
+[2022.12.05-02.56.35:591][864]LogContentValidation: Display: Validating World /Game/HW2/Maps/HW2Map.HW2Map
+[2022.12.05-02.56.37:147][996]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.05-02.56.37:161][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-02.56.37:161][996]PIE: New page: PIE session: HW2Map (Dec 4, 2022, 12:56:37 PM)
+[2022.12.05-02.56.37:183][996]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.56.37:231][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048109s)
+[2022.12.05-02.56.37:231][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/HW2Map.HW2Map to /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map (0.048284s)
+[2022.12.05-02.56.37:231][996]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-02.56.37:232][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.56.37:232][996]LogAIModule: Creating AISystem for world HW2Map
+[2022.12.05-02.56.37:232][996]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2022.12.05-02.56.37:276][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.12.05-02.56.37:277][996]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.05-02.56.37:277][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-02.56.37:277][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-02.56.37:277][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-02.56.37:277][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-02.56.37:277][996]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-02.56.37:277][996]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-02.56.37:277][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-02.56.37:277][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-02.56.37:278][996]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-02.56.37:278][996]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-02.56.37:278][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-02.56.37:280][996]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-02.56.37:335][996]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2022.12.05-02.56.37:335][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-02.56.37:335][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-02.56.37:335][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-02.56.37:336][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.12.05-02.56.37:336][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.12.05-02.56.37:338][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.12.05-02.56.37:338][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.12.05-02.56.37:338][996]LogInit: FAudioDevice initialized.
+[2022.12.05-02.56.37:338][996]LogAudio: Display: Audio Device (ID: 6) registered with world 'HW2Map'.
+[2022.12.05-02.56.37:357][996]LogLoad: Game class is 'GM_HW2_C'
+[2022.12.05-02.56.37:375][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:375][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:375][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:375][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:375][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:376][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:376][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:376][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:376][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:376][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:376][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:377][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:377][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:377][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:377][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:377][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:378][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:378][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:378][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:378][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:378][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:378][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:379][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:379][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:379][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:379][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:379][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:380][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:380][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:380][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:381][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:381][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:381][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:381][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:381][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:381][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:382][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:382][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:382][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:382][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:382][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:382][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:383][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:383][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:383][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:383][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:383][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:384][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:384][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:384][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:384][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:384][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:384][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:385][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:385][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:385][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:385][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:385][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:386][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:386][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:386][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:386][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:386][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:386][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:387][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:387][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:387][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:387][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:387][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:387][996]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.56.37:388][996]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map up for play (max tick rate 0) at 2022.12.04-19.56.37
+[2022.12.05-02.56.37:389][996]LogWorld: Bringing up level for play took: 0.031743
+[2022.12.05-02.56.37:391][996]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.12.05-02.56.37:392][996]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.56.37:392][996]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.56.37:392][996]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.56.37:392][996]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.37:393][996]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.37:397][996]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.56.37:397][996]PIE: Server logged in
+[2022.12.05-02.56.37:398][996]PIE: Play in editor total start time 0.237 seconds.
+[2022.12.05-02.56.37:422][996]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-02.56.37:661][ 12]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.37:661][ 12]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.37:662][ 12]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ForestDay1'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2022.12.05-02.56.38:156][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.38:156][ 65]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.38:658][118]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.38:658][118]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetGrippedActors_GrippedActorArray' of length 0 in '/Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock_C:ExecuteUbergraph_BP_BridgeLock'!
+[2022.12.05-02.56.38:984][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.56.38:984][149]LogWorld: BeginTearingDown for /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.56.38:985][149]LogWorld: UWorld::CleanupWorld for HW2Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.05-02.56.38:994][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.56.39:012][149]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.05-02.56.39:020][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.56.39:062][149]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.56.39:065][149]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.12.05-02.56.39:065][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.05-02.56.39:066][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.05-02.56.39:085][149]LogSlate: Slate User Unregistered.  User Index 8
+[2022.12.05-02.56.39:085][149]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.56.39:088][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.12.05-02.56.39:135][150]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.12.05-02.56.44:400][475]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock
+[2022.12.05-02.56.44:402][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.56.53:549][ 31]BlueprintLog: New page: Compile BP_BridgeLock
+[2022.12.05-02.56.53:657][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.05-02.56.53:825][ 31]LogSavePackage: Moving output files for package: /Game/HW2/Blueprints/Props/BP_BridgeLock
+[2022.12.05-02.56.53:826][ 31]LogSavePackage: Moving 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Saved/BP_BridgeLock8770033644B756DCF30823919B6AE0F4.tmp' to 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/HW2/Blueprints/Props/BP_BridgeLock.uasset'
+[2022.12.05-02.56.53:862][ 31]AssetCheck: New page: Asset Save: BP_BridgeLock
+[2022.12.05-02.56.53:862][ 31]LogContentValidation: Display: Validating Blueprint /Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock
+[2022.12.05-02.57.00:477][587]BlueprintLog: New page: Compile BP_BridgeLock
+[2022.12.05-02.57.00:594][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.05-02.57.00:778][587]LogSavePackage: Moving output files for package: /Game/HW2/Blueprints/Props/BP_BridgeLock
+[2022.12.05-02.57.00:779][587]LogSavePackage: Moving 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Saved/BP_BridgeLock594E490948A06084F6FF4698511148B8.tmp' to 'D:/Documents/_Personal/CSU/CLASSES/FALL2022/CS310H/HOMEWORK/CathT_CardosoV/HW2/Content/HW2/Blueprints/Props/BP_BridgeLock.uasset'
+[2022.12.05-02.57.00:807][587]AssetCheck: New page: Asset Save: BP_BridgeLock
+[2022.12.05-02.57.00:807][587]LogContentValidation: Display: Validating Blueprint /Game/HW2/Blueprints/Props/BP_BridgeLock.BP_BridgeLock
+[2022.12.05-02.57.03:718][778]LogTurnkeySupport: Display: Adding device menu item for CONSTR-4-UCT
+[2022.12.05-02.57.06:156][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.05-02.57.06:156][994]PIE: New page: PIE session: HW2Map (Dec 4, 2022, 12:57:06 PM)
+[2022.12.05-02.57.06:157][994]LogPlayLevel: Creating play world package: /Game/HW2/Maps/UEDPIE_0_HW2Map
+[2022.12.05-02.57.06:209][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051898s)
+[2022.12.05-02.57.06:209][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HW2/Maps/HW2Map.HW2Map to /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map (0.052030s)
+[2022.12.05-02.57.06:209][994]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.05-02.57.06:209][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.05-02.57.06:210][994]LogAIModule: Creating AISystem for world HW2Map
+[2022.12.05-02.57.06:210][994]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2022.12.05-02.57.06:261][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.05-02.57.06:263][994]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.05-02.57.06:263][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.05-02.57.06:263][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.05-02.57.06:263][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.05-02.57.06:263][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.05-02.57.06:263][994]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.05-02.57.06:263][994]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.05-02.57.06:263][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.05-02.57.06:263][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.05-02.57.06:263][994]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.12.05-02.57.06:263][994]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.12.05-02.57.06:263][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.05-02.57.06:265][994]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.05-02.57.06:317][994]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Focusrite USB Audio)
+[2022.12.05-02.57.06:318][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.05-02.57.06:318][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.05-02.57.06:318][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.05-02.57.06:319][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.12.05-02.57.06:319][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.12.05-02.57.06:321][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.12.05-02.57.06:321][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.12.05-02.57.06:321][994]LogInit: FAudioDevice initialized.
+[2022.12.05-02.57.06:321][994]LogAudio: Display: Audio Device (ID: 7) registered with world 'HW2Map'.
+[2022.12.05-02.57.06:353][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.05-02.57.06:467][994]LogLoad: Game class is 'GM_HW2_C'
+[2022.12.05-02.57.06:500][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:500][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:500][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:500][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:500][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:501][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:501][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:501][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:501][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:501][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:502][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:502][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:502][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:502][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:502][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:503][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:503][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:503][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:503][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:503][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:503][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:504][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:504][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:504][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:504][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:504][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:505][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:505][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:505][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:505][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:505][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:505][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:506][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:506][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:506][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:506][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:506][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:507][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:507][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:507][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:507][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:507][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:507][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:508][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:508][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:508][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:508][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:508][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:508][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:509][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:509][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:509][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:509][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:509][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:510][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:510][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:510][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:511][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:511][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:511][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:511][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:511][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:512][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:512][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:512][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:512][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:512][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:512][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:513][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:513][994]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.12.05-02.57.06:513][994]LogWorld: Bringing World /Game/HW2/Maps/UEDPIE_0_HW2Map.HW2Map up for play (max tick rate 0) at 2022.12.04-19.57.06
+[2022.12.05-02.57.06:514][994]LogWorld: Bringing up level for play took: 0.046052
+[2022.12.05-02.57.06:516][994]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.12.05-02.57.06:517][994]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.57.06:517][994]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.12.05-02.57.06:517][994]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.57.06:518][994]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.57.06:520][994]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.12.05-02.57.06:523][994]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.12.05-02.57.06:530][994]PIE: Server logged in
+[2022.12.05-02.57.06:534][994]PIE: Play in editor total start time 0.378 seconds.
+[2022.12.05-02.57.06:535][994]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.12.05-02.57.07:878][994]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.343 s
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: === Handled ensure: ===
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: 
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0) [File:D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp] [Line: 1093]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_HANDLE_INVALID
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: Stack: 
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ffb19d32f7a UnrealEditor-OpenXRHMD.dll!FOpenXRHMD::UpdateDeviceLocations() [D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp:1093]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ffb19d295ea UnrealEditor-OpenXRHMD.dll!FOpenXRHMD::OnStartGameFrame() [D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp:2212]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ffb42c65d49 UnrealEditor-Engine.dll!UWorld::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\LevelTick.cpp:1345]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ffb369ce5f5 UnrealEditor-UnrealEd.dll!UEditorEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:1777]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ffb3735aac6 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:474]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ff70feb82f6 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5215]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ff70fed0d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ff70fed0e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ff70fed3c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ff70fee5564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ff70fee8736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ffbf109244d KERNEL32.DLL!UnknownFunction []
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: [Callstack] 0x00007ffbf1dcdfb8 ntdll.dll!UnknownFunction []
+[2022.12.05-02.57.07:878][994]LogOutputDevice: Error: 
+[2022.12.05-02.57.07:890][994]LogStats:                SubmitErrorReport -  0.000 s
+[2022.12.05-02.57.10:073][994]LogStats:                    SendNewReport -  2.183 s
+[2022.12.05-02.57.10:073][994]LogStats:             FDebug::EnsureFailed -  3.538 s
+[2022.12.05-02.57.10:101][994]LogViewport: Scene viewport resized to 1940x1100, mode Windowed.
+[2022.12.05-02.57.10:211][994]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.12.05-02.57.11:017][994]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.805 s
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: === Handled ensure: ===
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: 
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0) [File:D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp] [Line: 1965]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_TIME_INVALID
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: Stack: 
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb19d23967 UnrealEditor-OpenXRHMD.dll!FOpenXRHMD::LocateViews() [D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp:1965]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb19d27195 UnrealEditor-OpenXRHMD.dll!FOpenXRHMD::OnBeginRendering_RenderThread() [D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp:1928]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb2866c5d7 UnrealEditor-HeadMountedDisplay.dll!FDefaultXRCamera::PreRenderViewFamily_RenderThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\HeadMountedDisplay\Private\DefaultXRCamera.cpp:171]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb438697db UnrealEditor-Engine.dll!TRDGLambdaPass<FEmptyShaderParameters,<lambda_4ff106eda34728aa44790dccb996ba8e> >::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Public\RenderGraphPass.h:564]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb4197a5e4 UnrealEditor-RenderCore.dll!FRDGBuilder::ExecutePass() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderGraphBuilder.cpp:2447]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb419745f9 UnrealEditor-RenderCore.dll!FRDGBuilder::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderGraphBuilder.cpp:1635]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb2b6073c3 UnrealEditor-Renderer.dll!FSceneRenderer::ViewExtensionPreRender_RenderThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:3815]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb2b5f18fd UnrealEditor-Renderer.dll!RenderViewFamily_RenderThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:4063]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb2b5c03a2 UnrealEditor-Renderer.dll!<lambda_220f8abc2f1feaab5010e9f914117006>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\Renderer\Private\SceneRendering.cpp:4353]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb2b5d96ba UnrealEditor-Renderer.dll!TEnqueueUniqueRenderCommandType<`FRendererModule::BeginRenderingViewFamily'::`46'::FDrawSceneCommandName,<lambda_220f8abc2f1feaab5010e9f914117006> >::DoTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h:193]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb2b5e11fa UnrealEditor-Renderer.dll!TGraphTask<TEnqueueUniqueRenderCommandType<`FRendererModule::BeginRenderingViewFamily'::`46'::FDrawSceneCommandName,<lambda_220f8abc2f1feaab5010e9f914117006> > >::ExecuteTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\TaskGraphInterfaces.h:975]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb46093a9d UnrealEditor-Core.dll!FNamedTaskThread::ProcessTasksNamedThread() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:753]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb46093f3e UnrealEditor-Core.dll!FNamedTaskThread::ProcessTasksUntilQuit() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:642]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb460942e1 UnrealEditor-Core.dll!FTaskGraphCompatibilityImplementation::ProcessThreadUntilRequestReturn() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\TaskGraph.cpp:2115]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb41a4976b UnrealEditor-RenderCore.dll!RenderingThreadMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:380]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb41a4d158 UnrealEditor-RenderCore.dll!FRenderingThread::Run() [D:\build\++UE5\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp:527]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb46767a2b UnrealEditor-Core.dll!FRunnableThreadWin::Run() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:146]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffb46760a90 UnrealEditor-Core.dll!FRunnableThreadWin::GuardedRun() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:76]
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffbf109244d KERNEL32.DLL!UnknownFunction []
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: [Callstack] 0x00007ffbf1dcdfb8 ntdll.dll!UnknownFunction []
+[2022.12.05-02.57.11:017][994]LogOutputDevice: Error: 
+[2022.12.05-02.57.11:017][994]LogStats:                SubmitErrorReport -  0.000 s
